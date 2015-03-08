@@ -1,0 +1,109 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 131
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-14 ; Times: 5
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 5
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "solenodon" ; Times: 2
+	Query: "sciurillus" ; Times: 1
+	Query: "arctomys" ; Times: 2
+	Query: "Glyptodon" ; Times: 1
+	Query: "Dactylomys" ; Times: 1
+	Query: "cephalophus silvicultor" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "rhinoceros sondaicus" ; Times: 5
+	Query: "chiropodomys" ; Times: 1
+	Query: "felis onca" ; Times: 1
+	Query: "tolypeutes tricinctus" ; Times: 3
+	Query: "trachypithecus cristatus" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 3
+	Query: "machairodus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 326 download events in this period)
+Total number of records downloaded: 643 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 580
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 4
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Petrogale penicillata" ; Times: 1
+	Query: "Macrotus waterhousii type:specimen (Bahama OR Bahamas)" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "canis lupus" ; Times: 1
+	Query: "maxomys" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Bolomys" ; Times: 1
+	Query: "Proechimys guairae" ; Times: 1
+	Query: "Proechimys cayennensis" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 24
+Total number of records retrieved from searches: 131
+Number of download events that retrieved data from the resource: 91
+Total number of records downloaded: 4446
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 119
+Total number of records retrieved from searches: 555
+Number of download events that retrieved data from the resource: 97
+Total number of records downloaded: 4706
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
