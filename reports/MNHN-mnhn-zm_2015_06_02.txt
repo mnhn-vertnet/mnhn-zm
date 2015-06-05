@@ -1,0 +1,210 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 969
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 41
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 49
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 13
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 15
+	Date: 2015-05-13 ; Times: 7
+	Date: 2015-05-14 ; Times: 4
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 7
+	Date: 2015-05-17 ; Times: 14
+	Date: 2015-05-18 ; Times: 13
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 6
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-30 ; Times: 3
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gouldii mnhn" ; Times: 2
+	Query: "davidiana mnhn" ; Times: 3
+	Query: "MNHN-1931-528" ; Times: 1
+	Query: "crocuta crocuta (zoo)" ; Times: 1
+	Query: ""Herpestes smithii"" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Hydrurga leptonyx" ; Times: 1
+	Query: "samoensis mnhn" ; Times: 4
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "MNHN-1973-526" ; Times: 1
+	Query: "Allenopithecus" ; Times: 2
+	Query: "Prionomys" ; Times: 1
+	Query: "Pteropus subniger" ; Times: 1
+	Query: "nycteris grandis" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 3
+	Query: "MNHN 1973 526" ; Times: 1
+	Query: "ichthyomys" ; Times: 2
+	Query: "hyaena hyaena (zoo)" ; Times: 3
+	Query: "Prionailurus rubiginosus" ; Times: 2
+	Query: "Rhynchocyon cirnei" ; Times: 1
+	Query: "frontalis mnhn" ; Times: 2
+	Query: "Allenopithecus nigroviridis" ; Times: 4
+	Query: "mweru" ; Times: 1
+	Query: "golunda ellioti" ; Times: 1
+	Query: "davidianus mnhn" ; Times: 1
+	Query: "Smutsia gigantea" ; Times: 1
+	Query: "pteronura brasiliensis" ; Times: 3
+	Query: "torquata mnhn" ; Times: 2
+	Query: "CM 8740" ; Times: 1
+	Query: "marmota himalayana" ; Times: 2
+	Query: "diardi mnhn" ; Times: 2
+	Query: "gigantea mnhn" ; Times: 1
+	Query: "cremnomys blanfordi" ; Times: 1
+	Query: "millardia meltada" ; Times: 1
+	Query: "bocagei mnhn" ; Times: 3
+	Query: "rhynchocyon cirnei" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Microgale gracilis" ; Times: 7
+	Query: "orycteropus" ; Times: 1
+	Query: "crossleyi mnhn" ; Times: 3
+	Query: "bruijnii mnhn" ; Times: 2
+	Query: "albogularis mnhn" ; Times: 1
+	Query: "Goudotii mnhn" ; Times: 1
+	Query: "pan paniscus" ; Times: 2
+	Query: "Lyncodon" ; Times: 1
+	Query: "Neofelis" ; Times: 1
+	Query: "anjuanensis mnhn" ; Times: 1
+	Query: "Brazzae mnhn" ; Times: 2
+	Query: "prevostii mnhn" ; Times: 3
+	Query: "Praomys misonnei" ; Times: 1
+	Query: "Meriones sacramenti" ; Times: 5
+	Query: "Cryptoprocta" ; Times: 1
+	Query: "platacanthomys lasiurus" ; Times: 1
+	Query: "Mystacina tuberculata" ; Times: 1
+	Query: "millardia gleadowi" ; Times: 1
+	Query: "Lontra provocax" ; Times: 2
+	Query: "Proechimys quadruplicatus" ; Times: 1
+	Query: "cremnomys" ; Times: 1
+	Query: "Mus flaviventer" ; Times: 1
+	Query: "f callicebus" ; Times: 1
+	Query: "hirundo mnhn" ; Times: 2
+	Query: "celebensis mnhn" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 976 download events in this period)
+Total number of records downloaded: 785 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 703
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 5
+	Date: 2015-05-13 ; Times: 8
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 7
+	Date: 2015-05-22 ; Times: 4
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Rhynchocyon cirnei" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "golunda ellioti" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "cremnomys blanfordi" ; Times: 1
+	Query: "millardia meltada" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Marmosops" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "nyctimene" ; Times: 3
+	Query: "Echimyidae" ; Times: 1
+	Query: "leopoldamys edwardsi" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "millardia gleadowi" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 186
+Total number of records retrieved from searches: 1395
+Number of download events that retrieved data from the resource: 151
+Total number of records downloaded: 5463
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 281
+Total number of records retrieved from searches: 1819
+Number of download events that retrieved data from the resource: 157
+Total number of records downloaded: 5723
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
