@@ -1,0 +1,206 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 539
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 4
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-06 ; Times: 7
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 10
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 3
+	Date: 2015-07-19 ; Times: 6
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-23 ; Times: 10
+	Date: 2015-07-27 ; Times: 4
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 8
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "Tremarctos" ; Times: 2
+	Query: "mnhn oman" ; Times: 3
+	Query: "Phloeomys cumingi" ; Times: 2
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Mus goundae" ; Times: 1
+	Query: "Cewali" ; Times: 2
+	Query: "Neusticomys" ; Times: 2
+	Query: "Anotomys" ; Times: 1
+	Query: "Ichthyomys hydrobates" ; Times: 2
+	Query: "Sus salvanius" ; Times: 4
+	Query: "thomasomys vulcani" ; Times: 2
+	Query: "kovares" ; Times: 1
+	Query: "Priodontes" ; Times: 1
+	Query: "acomys ignitus" ; Times: 1
+	Query: "Sphiggurus vestitus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "gracilinanus marica" ; Times: 1
+	Query: "lobodon carcinophaga" ; Times: 1
+	Query: "Lophiomys" ; Times: 1
+	Query: "Coelodonta antiquitatis" ; Times: 7
+	Query: "anotomys leander" ; Times: 1
+	Query: "lobodon" ; Times: 1
+	Query: "Pteronotus suapurensis" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "sus salvanius" ; Times: 13
+	Query: "platyrrhinus chocoensis" ; Times: 1
+	Query: "leopardus geoffroyi" ; Times: 1
+	Query: ""Ardops nichollsi"" ; Times: 1
+	Query: "dam country:"zimbabwe"" ; Times: 2
+	Query: "Mystacina tuberculata" ; Times: 2
+	Query: "oryzomys galapagoensis" ; Times: 2
+	Query: "Crateromys schadenbergi" ; Times: 1
+	Query: "Myomys derooi" ; Times: 1
+	Query: "neusticomys" ; Times: 1
+	Query: "dinomys branickii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 1084 download events in this period)
+Total number of records downloaded: 2061 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1718
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Czech Republic ; Times: 3
+	Country: Kenya ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Panama ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-10 ; Times: 4
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 2
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-23 ; Times: 5
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-27 ; Times: 5
+	Date: 2015-07-28 ; Times: 2
+	Date: 2015-07-30 ; Times: 15
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudemys" ; Times: 1
+	Query: "Praomys derooi" ; Times: 1
+	Query: "geomys breviceps" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 2
+	Query: "ateles fusciceps" ; Times: 2
+	Query: "tayassu pecari" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "Praomys daltoni" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Anotomys" ; Times: 2
+	Query: "Ichthyomys hydrobates" ; Times: 1
+	Query: "thomasomys vulcani" ; Times: 2
+	Query: "cebus capucinus" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "gracilinanus marica" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "elephantulus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "anotomys leander" ; Times: 1
+	Query: "Neusticomys" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "sus salvanius" ; Times: 1
+	Query: "platyrrhinus chocoensis" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "cebus albifrons" ; Times: 2
+	Query: "jalisco" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "dinomys branickii" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 306
+Total number of records retrieved from searches: 2431
+Number of download events that retrieved data from the resource: 257
+Total number of records downloaded: 9039
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 401
+Total number of records retrieved from searches: 2855
+Number of download events that retrieved data from the resource: 263
+Total number of records downloaded: 9299
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
