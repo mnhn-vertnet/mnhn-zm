@@ -1,0 +1,216 @@
+Report for Institution Code MNHN, Resource ZM
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 664
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 26
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Russia ; Times: 2
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 8
+	Date: 2015-08-03 ; Times: 5
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-07 ; Times: 5
+	Date: 2015-08-10 ; Times: 17
+	Date: 2015-08-11 ; Times: 17
+	Date: 2015-08-12 ; Times: 12
+	Date: 2015-08-13 ; Times: 4
+	Date: 2015-08-20 ; Times: 5
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 3
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 6
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 3
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dologale dybowskii" ; Times: 1
+	Query: ""Pteronura brasiliensis"" ; Times: 4
+	Query: "Melogale personata" ; Times: 1
+	Query: "Eulemur rufus" ; Times: 1
+	Query: "arctocephalus galapagoensis" ; Times: 13
+	Query: "potamogale" ; Times: 1
+	Query: "ailuropoda" ; Times: 1
+	Query: "simba river country:"kenya"" ; Times: 1
+	Query: "cavia aperea" ; Times: 1
+	Query: "herpestes smithii" ; Times: 1
+	Query: "zacoalco" ; Times: 1
+	Query: "Melogale orientalis" ; Times: 1
+	Query: "henrici mnhn" ; Times: 3
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Crocidura douceti" ; Times: 1
+	Query: "viverra civettina" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Monodelphis iheringi" ; Times: 2
+	Query: "country:"Swaziland" institutioncode:mnhn" ; Times: 1
+	Query: "Microcebus myoxinus" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "Cercocebus chrysogaster" ; Times: 1
+	Query: "Anourosorex schmidi" ; Times: 1
+	Query: "lontra felina" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: ""Parahyaena brunnea"" ; Times: 1
+	Query: "Allocebus trichotis" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Pectinator spekei" ; Times: 1
+	Query: "Tupaia dorsalis" ; Times: 1
+	Query: "Cheirogaleus ravus" ; Times: 1
+	Query: "dasypus kappleri" ; Times: 1
+	Query: "arctocephalus tropicalis" ; Times: 2
+	Query: "Lyncodon patagonicus" ; Times: 1
+	Query: "Coelodonta antiquitatis" ; Times: 1
+	Query: "eumops hansae" ; Times: 1
+	Query: "sus salvanius" ; Times: 7
+	Query: "saguinus leucopus" ; Times: 1
+	Query: "Prionodon" ; Times: 1
+	Query: "Mus goundae" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "Talpa davidiana" ; Times: 1
+	Query: "prionailurus viverrinus" ; Times: 1
+	Query: "otaria flavescens" ; Times: 9
+	Query: "micropotamogale" ; Times: 1
+	Query: "Calcochloris leucorhinus" ; Times: 1
+	Query: "Lepilemur dorsalis" ; Times: 1
+	Query: "Thomasomys vulcani" ; Times: 1
+	Query: "Phocarctos hookeri" ; Times: 2
+	Query: "Lepilemur ruficaudatus" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 1
+	Query: "Aeromys tephromelas" ; Times: 1
+	Query: "Melogale everetti" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "neusticomys" ; Times: 1
+	Query: "Lepilemur leucopus" ; Times: 1
+	Query: "Lepilemur microdon" ; Times: 1
+	Query: "arctocephalus gazella" ; Times: 1
+	Query: "scapteromys" ; Times: 1
+	Query: "mnhn 2986" ; Times: 2
+	Query: "Oryzorictes tetradactylus" ; Times: 1
+	Query: "Mus tenellus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1138 download events in this period)
+Total number of records downloaded: 5115 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4919
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 3
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 2
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 3
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-24 ; Times: 4
+	Date: 2015-08-25 ; Times: 27
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "microtus agrestis" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Dipodomys merriami Durango" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "country:"Swaziland" institutioncode:mnhn" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Thomomys bulbivorus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Neotamias amoenus" ; Times: 3
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "saguinus leucopus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 2
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: ""Cebus olivaceus"" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "perognathus parvus" ; Times: 1
+	Query: "Dasyurus hallucatus" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 99
+Total number of records retrieved from searches: 664
+Number of download events that retrieved data from the resource: 55
+Total number of records downloaded: 5115
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 99
+Total number of records retrieved from searches: 664
+Number of download events that retrieved data from the resource: 55
+Total number of records downloaded: 5115
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
