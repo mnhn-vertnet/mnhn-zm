@@ -1,0 +1,195 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 784
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 5
+	Country: Madagascar ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Czech Republic ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: Guatemala ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-12 ; Times: 6
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-01 ; Times: 4
+	Date: 2015-10-22 ; Times: 5
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bos grunniens" ; Times: 3
+	Query: "Mustela lutreola" ; Times: 2
+	Query: "Dermanura watsoni" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "herpailurus" ; Times: 2
+	Query: "gbifdatasetid:3959ee49-7678-4a88-9049-5dfc55ccebf3" ; Times: 1
+	Query: "Prionomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Cebus Villavicencio" ; Times: 2
+	Query: "c. prehensilis" ; Times: 3
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Apodemus sylvaticus institutioncode:MNHN" ; Times: 2
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "erethizon canada institutioncode:mnhn" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Alouatta pigra Guatemala" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "Mustela itatsi" ; Times: 2
+	Query: "Ursus thibetanus" ; Times: 1
+	Query: "&#34;Parahyaena&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Philippi 1858" ; Times: 1
+	Query: "Conepatus Guatemala" ; Times: 2
+	Query: "Canis aureus institutioncode:MNHN" ; Times: 1
+	Query: "Pseudemys AND MNHN" ; Times: 1
+	Query: "Apodemus institutioncode:MNHN" ; Times: 1
+	Query: "Dendroprionomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 823 download events in this period)
+Total number of records downloaded: 3374
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 5
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 31
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Czech Republic ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 4
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 11
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 10
+	Date: 2015-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "&#34;Parahyaena&#34;" ; Times: 2
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "steatomys" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Meriones Libycus" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "Atlantoxerus getulus" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "arctocephalus tropicalis" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Hoolock hoolock" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "Meriones shawi" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "ovis aries" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "(Ctenomys opimus)" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
