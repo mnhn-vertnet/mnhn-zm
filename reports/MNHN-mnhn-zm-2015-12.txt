@@ -1,0 +1,151 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 329
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-21 ; Times: 3
+	Date: 2015-12-20 ; Times: 8
+	Date: 2015-12-16 ; Times: 3
+	Date: 2015-12-25 ; Times: 6
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+	Date: 2015-12-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Spermophilopsis leptodactylus iran" ; Times: 1
+	Query: "Naemorhedus" ; Times: 1
+	Query: "Pygeretmus Alactagulus pumilio iran" ; Times: 1
+	Query: "Ellobius fuscocapillus iran" ; Times: 1
+	Query: "praomys misonnei" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 5
+	Query: "Eptesicus nilssoni iran" ; Times: 1
+	Query: "Spermophilus fulvus iran" ; Times: 1
+	Query: "gerbilliscus robustus institutioncode:MNHN" ; Times: 1
+	Query: "marchei mnhn" ; Times: 1
+	Query: "Apodemus sylvaticus iran" ; Times: 1
+	Query: "dendromus mesomelas" ; Times: 1
+	Query: "Mesocricetus brandti iran" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 2
+	Query: "mus musculus massachusetts" ; Times: 1
+	Query: "tapir" ; Times: 2
+	Query: "lutra sumatrana" ; Times: 2
+	Query: "Mesocricetus auratus iran" ; Times: 1
+	Query: "lamottemys" ; Times: 1
+	Query: "Meriones hurrianae iran" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "equus hemionus onager" ; Times: 2
+	Query: "pteropus tuberculatus" ; Times: 1
+	Query: "Lemur catta" ; Times: 1
+	Query: "Meriones meridianus iran" ; Times: 1
+	Query: "Ellobius Afganomys fuscocapillus iran" ; Times: 1
+	Query: "&#34;manis crassicaudata&#34;" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 889 download events in this period)
+Total number of records downloaded: 35910
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Portugal ; Times: 19
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 20
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-21 ; Times: 6
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-12 ; Times: 4
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-20 ; Times: 9
+	Date: 2015-12-16 ; Times: 5
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-13 ; Times: 5
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-18 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Spermophilus fulvus iran" ; Times: 1
+	Query: "Nesokia indica iran" ; Times: 1
+	Query: "Pygeretmus Alactagulus pumilio iran" ; Times: 1
+	Query: "Microtus Microtus socialis iran" ; Times: 1
+	Query: "Ellobius fuscocapillus iran" ; Times: 1
+	Query: "Spermophilopsis leptodactylus iran" ; Times: 1
+	Query: "gerbilliscus robustus institutioncode:MNHN" ; Times: 1
+	Query: "Meriones vinogradovi iran" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Glis glis iran" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "Mesocricetus brandti iran" ; Times: 1
+	Query: "Meriones crassus iran" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "aethomys" ; Times: 1
+	Query: "carollia" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Panthera onca" ; Times: 3
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "Afrique institutioncode:MNHN" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Cricetulus migratorius iran" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Meriones hurrianae iran" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Gerbillus" ; Times: 1
+	Query: "equus hemionus onager" ; Times: 4
+	Query: "alouatta pigra" ; Times: 1
+	Query: "carollia castanea" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Gerbillus nanus iran" ; Times: 1
+	Query: "Ellobius Afganomys fuscocapillus iran" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+
+
+End of report.
