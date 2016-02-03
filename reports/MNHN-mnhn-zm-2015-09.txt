@@ -1,0 +1,214 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 475
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Colombia ; Times: 8
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 15
+	Country: United States ; Times: 36
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-29 ; Times: 4
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-11 ; Times: 5
+	Date: 2015-09-05 ; Times: 18
+	Date: 2015-09-04 ; Times: 12
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-17 ; Times: 4
+	Date: 2015-09-18 ; Times: 5
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-27 ; Times: 3
+	Date: 2015-09-08 ; Times: 11
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-09 ; Times: 5
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geocapromys ingrahami" ; Times: 4
+	Query: "C. prehensilis" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 3
+	Query: "mustela frenata maine" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Zenkerella" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 3
+	Query: "Heteromys temporalis" ; Times: 2
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "c prehensilis" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "Neotamias merriami" ; Times: 1
+	Query: "c. prehensilis" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 3
+	Query: "Stenoderma rufum" ; Times: 3
+	Query: "viverricula" ; Times: 1
+	Query: "Sciurus nayaritensis " ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Smutsia gigantea" ; Times: 1
+	Query: "cebuella pygmaea" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "phocarctos" ; Times: 1
+	Query: "Galapagos institutioncode:MNHN" ; Times: 1
+	Query: "Phataginus tricuspis" ; Times: 1
+	Query: "echinoprocta" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "c.prehensilis" ; Times: 1
+	Query: "Aepeomys" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "ateles hybridus" ; Times: 3
+	Query: "saguinus leucopus" ; Times: 2
+	Query: "Chiropotes" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 3
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Smutsia temminckii" ; Times: 1
+	Query: "Neotoma goldmani" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Typhlomys" ; Times: 2
+	Query: "catalognumber:1994-768 institutioncode:MNHN" ; Times: 1
+	Query: "scapteromys" ; Times: 1
+	Query: "Macaca fuscata" ; Times: 1
+	Query: "bradypus torquatus" ; Times: 8
+	Query: "Platacanthomys" ; Times: 2
+	Query: "Mormoops blainvillii" ; Times: 3
+	Query: "Uromanis tetradactyla" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "Eumops perotis" ; Times: 3
+	Query: "Myotis leibii" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 104 (out of 1045 download events in this period)
+Total number of records downloaded: 3768
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Australia ; Times: 5
+	Country: Italy ; Times: 3
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 63
+	Country: Sweden ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 28
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-30 ; Times: 9
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-16 ; Times: 23
+	Date: 2015-09-17 ; Times: 7
+	Date: 2015-09-25 ; Times: 10
+	Date: 2015-09-29 ; Times: 7
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-15 ; Times: 5
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "saguinus geoffroyi" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Beamys" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Typhlomys" ; Times: 1
+	Query: "mustela frenata maine" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "callosciurus erythraeus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "callosciurus finlaysonii" ; Times: 1
+	Query: "Manis gigantea" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "saguinus fuscicollis" ; Times: 1
+	Query: "Smutsia gigantea" ; Times: 2
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "saguinus leucopus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "dipodomys (durango)" ; Times: 3
+	Query: "New Guinea" ; Times: 2
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Viverricula indica" ; Times: 1
+	Query: "cebuella pygmaea" ; Times: 1
+	Query: "Uromanis tetradactyla" ; Times: 1
+	Query: "Phataginus tricuspis" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
