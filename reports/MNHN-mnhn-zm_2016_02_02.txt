@@ -1,0 +1,177 @@
+Report for Institution Code MNHN, Resource ZM
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 266
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 9
+	Country: Brazil ; Times: 18
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 6
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 3
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-19 ; Times: 6
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Inia geoffrensis type:specimen AND (NOT skull) AND (NOT skeleton)" ; Times: 1
+	Query: "Inia" ; Times: 1
+	Query: "Lynx pardinus" ; Times: 2
+	Query: "Hippotragus niger" ; Times: 2
+	Query: "Profelis aurata" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skull)" ; Times: 1
+	Query: "myoictis melas" ; Times: 1
+	Query: "Prionailurus planiceps" ; Times: 1
+	Query: "ALouatta fusca" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "MNHN-2012-679" ; Times: 1
+	Query: "Cebuella" ; Times: 3
+	Query: "Prionailurus rubiginosus" ; Times: 1
+	Query: "Dolichotis" ; Times: 2
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "minous" ; Times: 2
+	Query: "Pteropus tuberculatus" ; Times: 4
+	Query: "yangi" ; Times: 1
+	Query: "Oncifelis geoffroyi" ; Times: 1
+	Query: "Bradypus torquatus" ; Times: 2
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: ""Lycalopex culpaeus"" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skull) AND (NOT skeleton)" ; Times: 1
+	Query: "wisconsin tamiasciurus" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Microcavia" ; Times: 1
+	Query: "pteropus tuberculatus" ; Times: 3
+	Query: "MNHN 2012 679" ; Times: 1
+	Query: "Oncifelis colocolo" ; Times: 1
+	Query: "Tremarctos "ornatus"" ; Times: 1
+	Query: "Kerodon" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "Caracal serval" ; Times: 1
+	Query: "Cebuella pygmaea type:specimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 507 download events in this period)
+Total number of records downloaded: 739 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 703
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 33
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-04 ; Times: 12
+	Date: 2016-01-05 ; Times: 15
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-07 ; Times: 4
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Inia geoffrensis type:specimen AND (NOT skull) AND (NOT skeleton)" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Prionailurus planiceps" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Lynx pardinus" ; Times: 3
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Oncifelis geoffroyi" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 2
+	Query: "Felis leo" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "Felis tigris" ; Times: 1
+	Query: "Oncifelis colocolo" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "Otocolobus manul" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "Caracal serval" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 739
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 50
+Total number of records retrieved from searches: 266
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 739
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
