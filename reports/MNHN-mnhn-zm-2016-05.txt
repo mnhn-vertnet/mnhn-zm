@@ -1,0 +1,74 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 57
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cebuella" ; Times: 1
+	Query: "echinoprocta" ; Times: 1
+	Query: "Marmota sibirica" ; Times: 3
+	Query: "Micoureus demerarae" ; Times: 1
+	Query: "aeretes" ; Times: 1
+	Query: "Gerbillus nanus setonbrownei" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Hippopotamus lemerlei" ; Times: 1
+	Query: "Helogale Kenya" ; Times: 1
+	Query: "sphiggurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 327 download events in this period)
+Total number of records downloaded: 545
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Marmota marmota" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
