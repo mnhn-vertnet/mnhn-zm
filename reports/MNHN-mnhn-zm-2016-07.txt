@@ -1,0 +1,141 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 658
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 22
+	Country: Chile ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 2
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-13 ; Times: 2
+	Date: 2016-07-27 ; Times: 5
+	Date: 2016-07-06 ; Times: 2
+	Date: 2016-07-07 ; Times: 5
+	Date: 2016-07-16 ; Times: 2
+	Date: 2016-07-19 ; Times: 1
+	Date: 2016-07-18 ; Times: 3
+	Date: 2016-07-08 ; Times: 3
+	Date: 2016-07-23 ; Times: 2
+	Date: 2016-07-28 ; Times: 3
+	Date: 2016-07-12 ; Times: 3
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-20 ; Times: 1
+	Date: 2016-07-14 ; Times: 1
+	Date: 2016-07-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myospalax" ; Times: 5
+	Query: "golunda" ; Times: 1
+	Query: "Macaca sylvanus 1" ; Times: 1
+	Query: "sciurus anomalus" ; Times: 1
+	Query: "Brazzaville" ; Times: 2
+	Query: "MNHN 2013-1141" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 1
+	Query: "berylmys berdmorei" ; Times: 1
+	Query: "MNHN-2013-1156" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "sciurus pyrrhinus" ; Times: 1
+	Query: "Callithrix melanura" ; Times: 1
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "Cebuella pygmaea" ; Times: 3
+	Query: "malmaison" ; Times: 1
+	Query: "Cremnomys" ; Times: 3
+	Query: "gbifdatasetid:3959ee49-7678-4a88-9049-5dfc55ccebf3" ; Times: 3
+	Query: "millardia" ; Times: 1
+	Query: "Lissodelphis peronii" ; Times: 2
+	Query: "Dendroprionomys" ; Times: 1
+	Query: "millardia gleadowi" ; Times: 1
+	Query: "MNHN-2013-1141" ; Times: 1
+	Query: "macrophyllum macrophyllum" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "colomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1219 download events in this period)
+Total number of records downloaded: 777
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 1
+	Country: United States ; Times: 34
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 5
+	Date: 2016-07-10 ; Times: 3
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-27 ; Times: 1
+	Date: 2016-07-15 ; Times: 5
+	Date: 2016-07-21 ; Times: 13
+	Date: 2016-07-17 ; Times: 1
+	Date: 2016-07-25 ; Times: 3
+	Date: 2016-07-19 ; Times: 4
+	Date: 2016-07-09 ; Times: 6
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-28 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-07 ; Times: 3
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 3
+	Query: "Brazzaville" ; Times: 1
+	Query: "Dipodomys venustus" ; Times: 1
+	Query: "cavia aperea type:specimen" ; Times: 1
+	Query: "Oryzomys albigularis" ; Times: 1
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Suncus murinus type:specimen" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 3
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 11
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "rhinopoma hardwickii" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "NICARAGUA" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Choeroniscus" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "molossus pretiosus" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "Dipodomys" ; Times: 1
+
+
+End of report.
