@@ -1,0 +1,152 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 404
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 43
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 5
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-30 ; Times: 26
+	Date: 2016-08-31 ; Times: 14
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 1
+	Query: "typhlomys" ; Times: 1
+	Query: "herpestes smithii" ; Times: 1
+	Query: "herpestes edwardsi" ; Times: 1
+	Query: "otocolobus manul" ; Times: 1
+	Query: "congosorex" ; Times: 1
+	Query: "felis chaus" ; Times: 1
+	Query: "pardofelis marmorata" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 4
+	Query: "eulemur mongoz" ; Times: 3
+	Query: "gerbillus pusillus" ; Times: 1
+	Query: "Ateles paniscus 1" ; Times: 1
+	Query: "Myotis brandti" ; Times: 1
+	Query: "prionailurus planiceps" ; Times: 1
+	Query: "neofelis nebulosa" ; Times: 1
+	Query: "necromys urichi" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "Myotis ruber" ; Times: 1
+	Query: "phataginus" ; Times: 1
+	Query: "prionailurus rubiginosus" ; Times: 1
+	Query: "Hyemoschus aquaticus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "potamogale velox" ; Times: 1
+	Query: "prionailurus viverrinus" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 17
+	Query: "Ateles geoffroyi guatemala" ; Times: 1
+	Query: "herpestes vitticollis" ; Times: 1
+	Query: "Myotis martiniquensis" ; Times: 1
+	Query: "Alouatta pigra guatemala" ; Times: 1
+	Query: "felis bieti" ; Times: 1
+	Query: "catopuma temminckii" ; Times: 2
+	Query: "Moschiola" ; Times: 1
+	Query: "herpestes brachyurus" ; Times: 1
+	Query: "micropotamogale lamottei" ; Times: 2
+	Query: "cynogale bennettii" ; Times: 1
+	Query: "Zamia" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 924 download events in this period)
+Total number of records downloaded: 2177
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 17
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 5
+	Date: 2016-08-12 ; Times: 5
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-25 ; Times: 11
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudemys" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "canis lupus" ; Times: 2
+	Query: "catopuma temminckii" ; Times: 1
+	Query: "cercocebus" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Acomys" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "gerbillus pusillus" ; Times: 1
+	Query: "Zelotomys" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "zelotomys" ; Times: 1
+	Query: "lEOPARDUS WIEDII" ; Times: 1
+	Query: "berardius bairdii" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Dipodomys nitratoides nitratoides" ; Times: 1
+	Query: "Ateles geoffroyi guatemala" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Alouatta pigra guatemala" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 4
+	Query: "lutra" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
