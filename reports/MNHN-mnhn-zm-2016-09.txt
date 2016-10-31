@@ -1,0 +1,113 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 296
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-21 ; Times: 1
+	Date: 2016-09-01 ; Times: 4
+	Date: 2016-09-13 ; Times: 10
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 3
+	Date: 2016-09-09 ; Times: 5
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-05 ; Times: 3
+	Date: 2016-09-07 ; Times: 4
+	Date: 2016-09-06 ; Times: 5
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tachyoryctes naivashae" ; Times: 1
+	Query: "MNHN-2013-1160" ; Times: 1
+	Query: "oxymycterus rufus" ; Times: 1
+	Query: "Macaca sylvanus 1" ; Times: 1
+	Query: "Lutrogale" ; Times: 1
+	Query: "cercocebus atys" ; Times: 2
+	Query: "Tremarctos Ornatus" ; Times: 1
+	Query: "Cercocebus torquatus 1" ; Times: 1
+	Query: "c. prehensilis" ; Times: 5
+	Query: "Dasypus septemcinctus" ; Times: 4
+	Query: "Leptonycteris nivalis 1" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Platanista gangetica" ; Times: 3
+	Query: "Nyctereutes procyonoides" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "dasypus septemcinctus" ; Times: 3
+	Query: "Tapirus pinchaque" ; Times: 4
+	Query: "C. anselli" ; Times: 1
+	Query: "Rhizomys sinensis" ; Times: 1
+	Query: "diclidurus albus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Trichechus inunguis" ; Times: 2
+	Query: "tapirus pinchaque" ; Times: 3
+	Query: "phylloderma" ; Times: 1
+	Query: "bos taurus &#34;indicus&#34;" ; Times: 1
+	Query: "Tachyoryctes macrocephalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 811 download events in this period)
+Total number of records downloaded: 432
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-04 ; Times: 3
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 5
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "cercocebus atys" ; Times: 1
+	Query: "Amorphochilus" ; Times: 1
+	Query: "Natalus" ; Times: 1
+	Query: "Platanista gangetica" ; Times: 1
+	Query: "Furipterus horrens" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+
+
+End of report.
