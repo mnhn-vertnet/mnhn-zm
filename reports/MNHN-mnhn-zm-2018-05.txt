@@ -1,0 +1,139 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 359
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Madagascar ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 7
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 34
+	Country: Japan ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 8
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-08 ; Times: 5
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-11 ; Times: 7
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 6
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 2
+	Query: "Myotis chiloensis" ; Times: 1
+	Query: "CM 9306" ; Times: 2
+	Query: "pontianak" ; Times: 1
+	Query: "marmosops impavidus" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "Tabiky" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "Saguinus leucopus" ; Times: 2
+	Query: "Priodontes" ; Times: 2
+	Query: "Lophiomys imhausi" ; Times: 6
+	Query: "bos gaurus" ; Times: 1
+	Query: "Ctenomys australis" ; Times: 1
+	Query: "Lagenorhynchus cruciger" ; Times: 2
+	Query: "Loxodonta Congo" ; Times: 3
+	Query: "1974-172 institutioncode:MNHN" ; Times: 1
+	Query: "Lutrogale perspicillata" ; Times: 1
+	Query: "Orcaella brevirostris" ; Times: 5
+	Query: "micropotamogale" ; Times: 1
+	Query: "Pteropus fundatus" ; Times: 4
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Myotis tricolor" ; Times: 1
+	Query: "vntype:specimen (Pan troglodytes)" ; Times: 1
+	Query: "Ateles hybridus" ; Times: 4
+	Query: "(Calabar) institutioncode:MNHN" ; Times: 1
+	Query: "Cyathea" ; Times: 2
+	Query: "Ateles fusciceps" ; Times: 3
+	Query: "equus quagga" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Rattus rattus Madagascar" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1178 download events in this period)
+Total number of records downloaded: 585
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Peru ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 1
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 7
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Tlaxcala" ; Times: 1
+	Query: "marmosops impavidus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Loxodonta Congo" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+
+
+End of report.
