@@ -1,0 +1,491 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 523
+Number of records retrieved in searches: 2284
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Madagascar ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 334
+	Country: United Kingdom ; Times: 15
+	Country: Vietnam ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 150
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 15
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-03 ; Times: 57
+	Date: 2018-02-02 ; Times: 55
+	Date: 2018-02-01 ; Times: 14
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-04 ; Times: 172
+	Date: 2018-02-21 ; Times: 10
+	Date: 2018-02-20 ; Times: 6
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-22 ; Times: 6
+	Date: 2018-02-25 ; Times: 17
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 17
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 72
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 51
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Epomophorus anselli " ; Times: 1
+	Query: "Otomys occidentalis " ; Times: 1
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Oxymycterus roberti" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1914-88&#34;" ; Times: 2
+	Query: "Capra caucasica" ; Times: 3
+	Query: "Lophuromys dieterleni " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1939-68&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1931-697&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1934-14&#34;" ; Times: 4
+	Query: "Loxodonta cyclotis" ; Times: 2
+	Query: "Grammomys buntingi " ; Times: 1
+	Query: "Steatomys caurinus " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1928-122&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a5484&#34;" ; Times: 4
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Avahi occidentalis " ; Times: 1
+	Query: "cephalophus leucogaster" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1898-291&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1965-49&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a14001&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1932-523&#34;" ; Times: 2
+	Query: "Trachypithecus barbei " ; Times: 1
+	Query: "Sylvisorex morio" ; Times: 1
+	Query: "Spalacopus cyanus" ; Times: 1
+	Query: "MNHN-1870-316" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1896-22&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a11462&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1876-655&#34;" ; Times: 4
+	Query: "Mus mattheyi " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a7992&#34;" ; Times: 4
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1885-728&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1904-273&#34;" ; Times: 4
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1914-89&#34;" ; Times: 4
+	Query: "Tragelaphus buxtoni" ; Times: 1
+	Query: "Myotis dieteri " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a7984&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1889-369&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1877-252&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1907-263&#34;" ; Times: 4
+	Query: "Taterillus tranieri " ; Times: 1
+	Query: "Paraxerus cooperi " ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a8783&#34;" ; Times: 4
+	Query: "Myotis pruinosus " ; Times: 1
+	Query: "Setifer setosus" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a10743&#34;" ; Times: 4
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "Mus oubanguii " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/mo-1957-465&#34;" ; Times: 2
+	Query: "Gerbilliscus guineae " ; Times: 1
+	Query: "scientificname:&#34;miopithecus ogouensis&#34;" ; Times: 1
+	Query: "CH 6650" ; Times: 1
+	Query: "Lemniscomys mittendorfi " ; Times: 1
+	Query: "Cryptoprocta" ; Times: 1
+	Query: "Praomys hartwigi " ; Times: 1
+	Query: "Piliocolobus pennantii " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/mo-2001-2119&#34;" ; Times: 4
+	Query: "scientificname:&#34;lepilemur sp.&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a953&#34;" ; Times: 4
+	Query: "Helarctos malayanus" ; Times: 2
+	Query: "smutsia temminckii" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1908-99&#34;" ; Times: 4
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "Plerotes anchietae " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a11461&#34;" ; Times: 4
+	Query: "Ctenomys talarum" ; Times: 1
+	Query: "Tetracerus quadricornis" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1913-394&#34;" ; Times: 2
+	Query: "Lemniscomys linulus " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1929-46&#34;" ; Times: 4
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1943-160&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1954-27&#34;" ; Times: 4
+	Query: "daubentonia" ; Times: 1
+	Query: "Rhinoceros sondaicus" ; Times: 3
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a8929&#34;" ; Times: 4
+	Query: "melursus" ; Times: 1
+	Query: "Dicerorhinus sumatrensis" ; Times: 9
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1930-26&#34;" ; Times: 4
+	Query: "Hylomyscus pamfi " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1852-564&#34;" ; Times: 4
+	Query: "Microtus middendorffii " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a10741&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a13936&#34;" ; Times: 2
+	Query: "Sapajus flavius " ; Times: 1
+	Query: "Lophuromys eisentrauti " ; Times: 1
+	Query: "scientificname:&#34;eulemur sp.&#34;" ; Times: 1
+	Query: "allocebus" ; Times: 3
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1873-252&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1906-192&#34;" ; Times: 2
+	Query: "Crocidura muricauda " ; Times: 1
+	Query: "scientificname:&#34;aotus sp.&#34;" ; Times: 1
+	Query: "Mus cypriacus " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1961-69&#34;" ; Times: 2
+	Query: "Hylomyscus grandis " ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Chalinolobus neocaledonicus " ; Times: 1
+	Query: "Praomys derooi " ; Times: 1
+	Query: "Acomys seurati " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1965-106&#34;" ; Times: 4
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Equus asinus" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1861-53&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1914-87&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1865-549&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/mo-1994-1086&#34;" ; Times: 4
+	Query: "Praomys rostratus " ; Times: 1
+	Query: "Indri" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/2008-80&#34;" ; Times: 2
+	Query: "Crocidura douceti " ; Times: 1
+	Query: "Praomys petteri " ; Times: 1
+	Query: "Sylvisorex camerunensis " ; Times: 1
+	Query: "Megaloglossus azagnyi " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1927-115&#34;" ; Times: 4
+	Query: "Mustela putorius furo" ; Times: 1
+	Query: "Gerbilliscus gambiana " ; Times: 1
+	Query: "smutsia" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1925-205&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1941-209&#34;" ; Times: 4
+	Query: "Micropotamogale lamottei " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1888-824&#34;" ; Times: 4
+	Query: "catalognumber:447" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1939-185&#34;" ; Times: 4
+	Query: "Gerbillus nancillus " ; Times: 1
+	Query: "Glischropus javanus " ; Times: 1
+	Query: "Myosorex schalleri " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1960-118&#34;" ; Times: 4
+	Query: "heliosciurus nimba" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1961-129&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1902-707&#34;" ; Times: 4
+	Query: "Steatomys cuppedius " ; Times: 1
+	Query: "Semnopithecus hypoleucos " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1942-140&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1876-273&#34;" ; Times: 4
+	Query: "Cheirogaleus" ; Times: 3
+	Query: "Dendroprionomys rousseloti " ; Times: 1
+	Query: "dephomys" ; Times: 1
+	Query: "sapajus" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-iv-1525&#34;" ; Times: 2
+	Query: "scientificname:&#34;lagothrix sp&#34;" ; Times: 4
+	Query: "Rhinoceros sondaicus sondaicus" ; Times: 3
+	Query: "Taterillus congicus " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1870-40&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1892-543&#34;" ; Times: 4
+	Query: "Pygathrix cinerea " ; Times: 1
+	Query: "Lemniscomys zebra " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a949&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/2008-71&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1964-39&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1845-253&#34;" ; Times: 4
+	Query: "Cheirogaleus medius" ; Times: 3
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1900-187&#34;" ; Times: 2
+	Query: "Malacomys cansdalei " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a2301&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1884-824&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1946-132&#34;" ; Times: 4
+	Query: "Nycticebus bengalensis" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1915-55&#34;" ; Times: 4
+	Query: "Praomys mutoni " ; Times: 1
+	Query: "Malacomys edwardsi " ; Times: 1
+	Query: "Crocidura buettikoferi " ; Times: 1
+	Query: "Poeppig" ; Times: 1
+	Query: "Crocidura grandiceps " ; Times: 1
+	Query: "Aotus azarae" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1889-370&#34;" ; Times: 4
+	Query: "cuon alpinus" ; Times: 4
+	Query: "Nycticebus pygmaeus" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1951-96&#34;" ; Times: 4
+	Query: "Microcebus berthae " ; Times: 1
+	Query: "euoticus" ; Times: 2
+	Query: "Acomys airensis " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/2008-70&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1883-568&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1865-547&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1900-492&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1909-49&#34;" ; Times: 2
+	Query: "bubalus depressicornis" ; Times: 1
+	Query: "scientificname:&#34;microcebus sp.&#34;" ; Times: 2
+	Query: "Eulemur rufifrons " ; Times: 1
+	Query: "Mus baoulei " ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Tragelaphus angasii" ; Times: 1
+	Query: "Eulemur fulvus" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Eliurus antsingy " ; Times: 1
+	Query: "neofelis" ; Times: 3
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1896-16&#34;" ; Times: 2
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "locality:Hampi" ; Times: 1
+	Query: "Moojen" ; Times: 1
+	Query: "Cheirogaleus major" ; Times: 6
+	Query: "Dicerorhinus sumatrensis sumatrensis" ; Times: 1
+	Query: "scientificname:&#34;lemur sp.&#34;" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Mus goundae " ; Times: 1
+	Query: "cephalophus dorsalis" ; Times: 2
+	Query: "stochomys" ; Times: 4
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "Lamottemys okuensis " ; Times: 1
+	Query: "Ctenomys australis " ; Times: 1
+	Query: "Gerbillus tarabuli" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1945-152&#34;" ; Times: 4
+	Query: "Sylvisorex isabellae " ; Times: 1
+	Query: "Crocidura obscurior " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1900-37&#34;" ; Times: 4
+	Query: "scientificname:&#34;manis sp.&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1966-14&#34;" ; Times: 4
+	Query: "Gerbillus rupicola " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1928-97&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1913-393&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1907-49&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a13940&#34;" ; Times: 4
+	Query: "fossa" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/mo-1956-194&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1845-226&#34;" ; Times: 4
+	Query: "Crocidura smithii " ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "Arvicanthis ansorgei " ; Times: 1
+	Query: "Dolichotis salinicola" ; Times: 1
+	Query: "Taterillus petteri " ; Times: 1
+	Query: "scientificname:&#34;propithecus sp.&#34;" ; Times: 3
+	Query: "Dendromus lachaisei " ; Times: 1
+	Query: "Macrotarsomys ingens " ; Times: 1
+	Query: "Mastomys kollmannspergeri " ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1950-728&#34;" ; Times: 4
+	Query: "Grammomys kuru " ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1998-6&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1875-28&#34;" ; Times: 4
+	Query: "MNHN 8672" ; Times: 1
+	Query: "Allocebus trichotis " ; Times: 1
+	Query: "Allocebus" ; Times: 1
+	Query: "Hylomyscus walterverheyeni " ; Times: 1
+	Query: "Felis bieti " ; Times: 1
+	Query: "brazzae" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1932-437&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 170 (out of 1892 download events in this period)
+Total number of records downloaded: 9187
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 148
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Kuwait ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 15
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 5
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 120
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-20 ; Times: 9
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Gerbillus andersoni" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Oxymycterus roberti" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Setifer setosus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Abrothrix longipilis" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "tremarctos" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Spalacopus cyanus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Heteromys anomalus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Gerbillus" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "smutsia" ; Times: 1
+	Query: "tatera indica" ; Times: 1
+	Query: "Ctenomys talarum" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "Glossophaga longirostris" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Monophyllus redmani" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "Gerbillus nanus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Artibeus concolor" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Akodon azarae" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Dolichotis salinicola" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "vntype:specimen (colobus guereza)" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Tamias merriami" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "colomys" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "Aotus azarae" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Meriones crassus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Rhombomys" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Meriones libycus" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "Gerbillus latastei" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Phyllostomus elongatus" ; Times: 2
+	Query: "Gerbillus tarabuli" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "Meriones shawi" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "Auliscomys boliviensis" ; Times: 1
+	Query: "Dasyprocta azarae" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Nesokia" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+
+End of report.
