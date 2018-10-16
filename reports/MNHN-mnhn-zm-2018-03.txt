@@ -1,0 +1,175 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 653
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Madagascar ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 30
+	Country: Israel ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 55
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: Cameroon ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-07 ; Times: 30
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-18 ; Times: 4
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-29 ; Times: 5
+	Date: 2018-03-08 ; Times: 20
+	Date: 2018-03-09 ; Times: 5
+	Date: 2018-03-22 ; Times: 4
+	Date: 2018-03-23 ; Times: 9
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 2
+	Date: 2018-03-27 ; Times: 6
+	Date: 2018-03-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "TREMARCTOS ORNATUS" ; Times: 2
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "myosorex babaulti" ; Times: 2
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "gymnocercus" ; Times: 2
+	Query: "Hipposideros fulvus vntype:specimen" ; Times: 2
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1977-38&#34;" ; Times: 4
+	Query: "Ateles hybridus" ; Times: 2
+	Query: "Barbastella vntype:specimen" ; Times: 3
+	Query: "Rhinoceros sondaicus" ; Times: 2
+	Query: "microgale taiva" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-bv-18&#34;" ; Times: 4
+	Query: "Baeodon" ; Times: 8
+	Query: "Mystacina" ; Times: 1
+	Query: "Barbastella leucomelas" ; Times: 4
+	Query: "echimys chrysurus" ; Times: 2
+	Query: "pteropus griseus" ; Times: 5
+	Query: "Scotophilus borbonicus" ; Times: 2
+	Query: "Antilope cervicapra" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 2
+	Query: "1998-786 institutioncode:MNHN" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "scientificname:gorilla gorilla" ; Times: 1
+	Query: "Echimys chrysurus" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Crateromys" ; Times: 1
+	Query: "recordedby:Legendre" ; Times: 1
+	Query: "(Strasbourg)" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a10134&#34;" ; Times: 4
+	Query: "saguinus leucopus" ; Times: 3
+	Query: "felis domesticus" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "Setifer setosus" ; Times: 3
+	Query: "Schwartz 1929" ; Times: 2
+	Query: "Hybomys rufocanus" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-1886-204&#34;" ; Times: 4
+	Query: "Scotophilus heathii" ; Times: 3
+	Query: "modigliani" ; Times: 1
+	Query: "Mystacina tuberculata" ; Times: 1
+	Query: "dinomys" ; Times: 2
+	Query: "Nyctalus leisleri" ; Times: 1
+	Query: "Hybomys eisentrauti" ; Times: 1
+	Query: "iptrecordid:&#34;http://coldb.mnhn.fr/catalognumber/mnhn/zm/ac-a10628&#34;" ; Times: 4
+	Query: "Pteropus livingstonii" ; Times: 1
+	Query: "Panthera tigris " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1284 download events in this period)
+Total number of records downloaded: 2082
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 18
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Cameroon ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 5
+	Date: 2018-03-19 ; Times: 5
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-09 ; Times: 7
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 4
+	Date: 2018-03-20 ; Times: 5
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 5
+	Query: "Hipposideros fulvus vntype:specimen" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "recordedby:Mena" ; Times: 1
+	Query: "Mormopterus planiceps" ; Times: 1
+	Query: "Barbastella vntype:specimen" ; Times: 1
+	Query: "Rhinoceros sondaicus" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "gazella subgutturosa" ; Times: 2
+	Query: "vampyressa thyone" ; Times: 1
+	Query: "Calomyscus" ; Times: 4
+	Query: "Myotis emarginatus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Colomys" ; Times: 1
+	Query: "recordedby:swinhoe" ; Times: 1
+	Query: "Myotis dasycneme" ; Times: 1
+	Query: "Hybomys univittatus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "calomyscus" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "vampyressa pusilla" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "Talpa" ; Times: 1
+	Query: "Mystacina tuberculata" ; Times: 1
+	Query: "Ateles hybridus" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Nyctalus leisleri" ; Times: 1
+	Query: "Pteropus livingstonii" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
