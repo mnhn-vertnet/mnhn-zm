@@ -1,0 +1,162 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 677
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Romania ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Czechia ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 27
+	Country: Germany ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-19 ; Times: 10
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-11 ; Times: 6
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 12
+	Date: 2018-09-22 ; Times: 3
+	Date: 2018-09-23 ; Times: 5
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-02 ; Times: 2
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "glyphonycteris" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 2
+	Query: "Dermanura watsoni" ; Times: 1
+	Query: "Pteropus griseus" ; Times: 3
+	Query: "coendou prehensilis" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 16
+	Query: "Leontopithecus chrysomelas" ; Times: 1
+	Query: "catalognumber:5068 institutioncode:MNHN" ; Times: 1
+	Query: "Dremomys rufigenis" ; Times: 1
+	Query: "cryptoprocta" ; Times: 2
+	Query: "Constanta" ; Times: 1
+	Query: "phloeomys" ; Times: 1
+	Query: "allocebus" ; Times: 1
+	Query: "scientificname:Sigmodon peruanus " ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "MNHN 6194" ; Times: 1
+	Query: "praomys daltoni" ; Times: 1
+	Query: "institutioncode:mnhn Angkor" ; Times: 1
+	Query: "Equus hemionus onager" ; Times: 1
+	Query: "institutioncode:mnhn cambodge pfeffer" ; Times: 2
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "desmana moschata" ; Times: 1
+	Query: "eidolon helvum" ; Times: 6
+	Query: "galictis vittata" ; Times: 2
+	Query: "Lutrogale perspicillata" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "prionailurus viverrinus" ; Times: 2
+	Query: "galemys" ; Times: 1
+	Query: "micronycteris schmidtorum" ; Times: 2
+	Query: "Pteropus fundatus" ; Times: 2
+	Query: "Anomalurus" ; Times: 1
+	Query: "Trichechus inunguis" ; Times: 1
+	Query: "Glyphonycteris" ; Times: 1
+	Query: "mustela nivalis 500" ; Times: 1
+	Query: "artibeus amplus" ; Times: 3
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 846 download events in this period)
+Total number of records downloaded: 1304
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 28
+	Country: Singapore ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-27 ; Times: 13
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-13 ; Times: 6
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "bullfrog" ; Times: 1
+	Query: "berardius bairdii" ; Times: 2
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "praomys derooi" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "peponocephala electra" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "lupus dingo" ; Times: 1
+	Query: "micronycteris minuta" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "eschrichtius robustus" ; Times: 2
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Pteropus fundatus" ; Times: 1
+	Query: "praomys daltoni" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "Lutrogale perspicillata" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
