@@ -1,0 +1,151 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 579
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: United States ; Times: 42
+	Country: Mexico ; Times: 2
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-16 ; Times: 2
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-23 ; Times: 4
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-26 ; Times: 8
+	Date: 2018-07-27 ; Times: 4
+	Date: 2018-07-02 ; Times: 8
+	Date: 2018-07-25 ; Times: 23
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-24 ; Times: 6
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-20 ; Times: 4
+	Date: 2018-07-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "aonyx capensis" ; Times: 1
+	Query: "Dephomys" ; Times: 1
+	Query: "locality:flour lake" ; Times: 1
+	Query: "Echimys chrysurus" ; Times: 2
+	Query: "herpailurus" ; Times: 1
+	Query: "Panthera pardus orientalis" ; Times: 1
+	Query: "Mt Kupe" ; Times: 2
+	Query: "Lontra felina" ; Times: 3
+	Query: "L.E. Allen" ; Times: 1
+	Query: "Calomyscus bailwardi" ; Times: 2
+	Query: "Mesoplodon bidens" ; Times: 3
+	Query: "Inia geoffrensis" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "AM 3468" ; Times: 1
+	Query: "sotalia fluviatilis" ; Times: 2
+	Query: "MNHN 1998–2075" ; Times: 1
+	Query: "Galea spixii" ; Times: 1
+	Query: "catalognumber:5186 institutioncode:MNHN" ; Times: 2
+	Query: "MNHN 1995-27" ; Times: 1
+	Query: "GLYPHONYCTERIS" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "c 5862" ; Times: 1
+	Query: "priodontes" ; Times: 2
+	Query: "catalognumber:468 institutioncode:MNHN" ; Times: 1
+	Query: "saguinus imperator" ; Times: 1
+	Query: "tolypeutes tricinctus" ; Times: 4
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Trichechus inunguis" ; Times: 13
+	Query: "mystromys albicaudatus" ; Times: 2
+	Query: "addax" ; Times: 1
+	Query: "7373 F" ; Times: 1
+	Query: "Ailuropoda" ; Times: 10
+	Query: "kapoe" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "Platanista gangetica" ; Times: 6
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "Globicephala macrorhynchus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 977 download events in this period)
+Total number of records downloaded: 602
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Ukraine ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-30 ; Times: 4
+	Date: 2018-07-19 ; Times: 4
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 3
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-24 ; Times: 4
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Stenoderma rufum" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Galea spixii" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "Anoura" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Ailuropoda" ; Times: 2
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "kapoe" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
