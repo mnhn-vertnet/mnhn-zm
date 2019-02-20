@@ -1,0 +1,200 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 1572
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: India ; Times: 4
+	Country: Czechia ; Times: 5
+	Country: United States ; Times: 201
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: New Zealand ; Times: 8
+	Country: Norway ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 54
+	Date: 2019-01-14 ; Times: 15
+	Date: 2019-01-15 ; Times: 12
+	Date: 2019-01-30 ; Times: 43
+	Date: 2019-01-17 ; Times: 5
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 7
+	Date: 2019-01-12 ; Times: 4
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-29 ; Times: 27
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 11
+	Date: 2019-01-04 ; Times: 5
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 10
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-27 ; Times: 7
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "galemys pyrenaicus" ; Times: 2
+	Query: "Naemorhedus" ; Times: 2
+	Query: "(&#34;ailurus fulgens&#34;)" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "&#34;Capra pyrenaica&#34;" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "catalognumber:79 institutioncode:MNHN" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 27
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "MNHN-1858-1984" ; Times: 1
+	Query: "papio hamadryas" ; Times: 4
+	Query: "&#34;ailurus fulgens&#34;" ; Times: 2
+	Query: "Gracilinanus marica" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "Semnopithecus entellus" ; Times: 3
+	Query: "oryx leucoryx" ; Times: 1
+	Query: "Moschus" ; Times: 3
+	Query: "hydrurga leptonyx" ; Times: 8
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "cervus axis" ; Times: 7
+	Query: "Panthera tigris altaica" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 2
+	Query: "&#34;mellivora capensis&#34;" ; Times: 3
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "(Ailurus fulgens)" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "catalognumber:4133 institutioncode:MNHN" ; Times: 4
+	Query: "tarsius spectrum" ; Times: 1
+	Query: "stipa vntype:specimen" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 24
+	Query: "allenopithecus" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "Orcaella brevirostris" ; Times: 1
+	Query: "cacajao" ; Times: 2
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Equus hemionus" ; Times: 2
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "(&#34;Suricata suricatta&#34;)" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 16
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Okapia johnstoni" ; Times: 2
+	Query: "“Tremarctos ornatus”" ; Times: 6
+	Query: "(&#34;chaetophractus villosus&#34;)" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 19
+	Query: "Hylobates moloch" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 118 (out of 962 download events in this period)
+Total number of records downloaded: 1681
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 82
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 11
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-29 ; Times: 19
+	Date: 2019-01-31 ; Times: 27
+	Date: 2019-01-30 ; Times: 23
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-28 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "marmosa" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 19
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Gracilinanus marica" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Marmosops incanus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "Nauta" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 14
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Mimon" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 3
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 12
+
+
+End of report.
