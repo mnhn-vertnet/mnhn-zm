@@ -1,0 +1,182 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 244
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: India ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: United States ; Times: 27
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 7
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-10 ; Times: 7
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-13 ; Times: 9
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-25 ; Times: 5
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-15 ; Times: 3
+	Date: 2019-02-07 ; Times: 5
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-20 ; Times: 4
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Apodemus orestes" ; Times: 1
+	Query: "CM 7581" ; Times: 4
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Vulpes rueppellii" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "Lynx pardinus" ; Times: 1
+	Query: "Mus cypriacus" ; Times: 2
+	Query: "Microcebus berthae" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "Microcebus myoxinus" ; Times: 1
+	Query: "Tamias quadrimaculatus" ; Times: 1
+	Query: "Gracilinanus marica" ; Times: 1
+	Query: "Prionailurus rubiginosus" ; Times: 1
+	Query: "Moschus" ; Times: 2
+	Query: "Vulpes corsac" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "Eptesicus chiriquinus" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Gracilinanus dryas" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Neotamias quadrimaculatus" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 1
+	Query: "Lophiomys" ; Times: 1
+	Query: "PILIOCOLOBUS" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Microcebus" ; Times: 2
+	Query: "Kerodon" ; Times: 2
+	Query: "canis simensis" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Gorilla beringei" ; Times: 1
+	Query: "Rhinopithecus" ; Times: 1
+	Query: "ateles fusciceps" ; Times: 2
+	Query: "&#34;Apodemus alpicola&#34;" ; Times: 1
+	Query: "county:&#34;France&#34;" ; Times: 1
+	Query: "vernet" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 2
+	Query: "Sus philippensis" ; Times: 1
+	Query: "cuon alpinus" ; Times: 1
+	Query: "Platacanthomys" ; Times: 1
+	Query: "Vulpes pallida" ; Times: 1
+	Query: "apodemus gurkha" ; Times: 1
+	Query: "Commiphora" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 2
+	Query: "sanghir" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1227 download events in this period)
+Total number of records downloaded: 1167
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 18
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-13 ; Times: 9
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-25 ; Times: 9
+	Date: 2019-02-26 ; Times: 4
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-14 ; Times: 9
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Heteromys" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "ALOUATTA PALLIATA" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 1
+	Query: "Vulpes corsac" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Apodemus orestes" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "herpestes auropunctatus" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "berylmys" ; Times: 2
+	Query: "Panthera onca" ; Times: 6
+	Query: "micoureus" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "canis simensis" ; Times: 1
+	Query: "&#34;Apodemus hyrcanicus&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "&#34;Apodemus alpicola&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "&#34;Apodemus gurkha&#34;" ; Times: 1
+	Query: "Vulpes rueppellii" ; Times: 1
+	Query: "cuon alpinus" ; Times: 1
+	Query: "Vulpes pallida" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "&#34;Apodemus mystacinus&#34;" ; Times: 1
+
+
+End of report.
