@@ -1,0 +1,189 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 620
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 34
+	Country: Austria ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 24
+	Country: Malaysia ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 21
+	Country: Switzerland ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-05 ; Times: 7
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-03 ; Times: 21
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-15 ; Times: 9
+	Date: 2019-04-04 ; Times: 16
+	Date: 2019-04-23 ; Times: 11
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-07 ; Times: 10
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-29 ; Times: 11
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Strasbourg" ; Times: 1
+	Query: "helarctos malayanus" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Phyllotis haggardi" ; Times: 1
+	Query: "herpailurus" ; Times: 2
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Macaca radiata" ; Times: 3
+	Query: "menu" ; Times: 1
+	Query: "pipistrellus macrotis" ; Times: 1
+	Query: "Thomasomys silvestris" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Macaca sylvanus" ; Times: 5
+	Query: "rhynchogale melleri" ; Times: 2
+	Query: "caracal" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 5
+	Query: "Tremarctos ornatus" ; Times: 7
+	Query: "lagothrix flavicauda" ; Times: 3
+	Query: "Procavia capensis israel" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 9
+	Query: "Mazama americana" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 34
+	Query: "Thomasomys caudivarius" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 2
+	Query: "Dinomys branickii" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "Apodemus chevrieri" ; Times: 1
+	Query: "catalognumber:720 institutioncode:MNHN" ; Times: 1
+	Query: "ORYX LEUCORYX" ; Times: 1
+	Query: "neusticomys" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "locality:Para Mus" ; Times: 1
+	Query: "Aeretes melanopterus" ; Times: 1
+	Query: "zaglossus" ; Times: 1
+	Query: "country:&#34;myanmar&#34; institutioncode:MNHN" ; Times: 1
+	Query: "varecia" ; Times: 2
+	Query: "vormela peregusna" ; Times: 2
+	Query: "Gakoma" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1263 download events in this period)
+Total number of records downloaded: 963
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 2
+	Country: Austria ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Chile ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-02 ; Times: 22
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Cryptotis mexicana" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "Phyllotis haggardi" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "neusticomys" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "baiomys taylori" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "phyllotis osilae" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "Apodemus chevrieri" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "carollia castanea" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "Abrothrix olivaceus" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
