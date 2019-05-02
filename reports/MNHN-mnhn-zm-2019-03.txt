@@ -1,0 +1,209 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 213
+Number of records retrieved in searches: 909
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 46
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 34
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 112
+	Country: Spain ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-18 ; Times: 2
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-04 ; Times: 4
+	Date: 2019-03-13 ; Times: 63
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 37
+	Date: 2019-03-09 ; Times: 4
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-21 ; Times: 7
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-14 ; Times: 14
+	Date: 2019-03-15 ; Times: 43
+	Date: 2019-03-12 ; Times: 7
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "pygeretmus" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 5
+	Query: "avahi occidentalis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Artibeus amplus" ; Times: 6
+	Query: "potamogale" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "Galerella sanguinea" ; Times: 2
+	Query: "colomys" ; Times: 3
+	Query: "Puma yagouaroundi" ; Times: 27
+	Query: "Echis ocellatus" ; Times: 1
+	Query: "Pteropus insularis" ; Times: 1
+	Query: "Orientallactaga" ; Times: 1
+	Query: "oryx leucoryx" ; Times: 3
+	Query: "micropotamogale" ; Times: 1
+	Query: "lepilemur microdon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Grenadiers" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "lonchophylla mordax institutioncode:MNHN" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "Canis simensis" ; Times: 2
+	Query: "Colomys" ; Times: 2
+	Query: "lonchophylla mordax locality:lamarao" ; Times: 1
+	Query: "Epomophorus minimus" ; Times: 2
+	Query: "monodelphis americana" ; Times: 1
+	Query: "Pteropus temminckii" ; Times: 17
+	Query: "Pteropus tuberculatus" ; Times: 8
+	Query: "Gorilla beringei" ; Times: 2
+	Query: "Pteropus leucopterus" ; Times: 10
+	Query: "Sciurus stramineus" ; Times: 4
+	Query: "locality:lamarao" ; Times: 1
+	Query: "scarturus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 6
+	Query: "tenrec" ; Times: 1
+	Query: "Notopteris neocaledonica" ; Times: 4
+	Query: "Panthera onca" ; Times: 8
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "gbifdatasetid:3959ee49-7678-4a88-9049-5dfc55ccebf3" ; Times: 1
+	Query: "ardilla" ; Times: 3
+	Query: "colomys goslingi" ; Times: 1
+	Query: "Pteropus griseus" ; Times: 7
+	Query: "Pteropus vetulus" ; Times: 19
+	Query: "Pteropus fundatus" ; Times: 10
+	Query: "Hypsignathus" ; Times: 4
+	Query: "Eidolon dupreanum" ; Times: 1
+	Query: "brachyteles" ; Times: 1
+	Query: "Pteropus seychellensis" ; Times: 7
+	Query: "Pteropus capistratus" ; Times: 5
+	Query: "Allenopithecus nigroviridis" ; Times: 2
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Primat" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "Euchoreutes" ; Times: 1
+	Query: "Sturnira thomasi" ; Times: 10
+	Query: "avahi" ; Times: 2
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "Lophocebus aterrimus" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1281 download events in this period)
+Total number of records downloaded: 1301
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 19
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 11
+	Country: United Kingdom ; Times: 30
+	Country: Austria ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-13 ; Times: 15
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 4
+	Date: 2019-03-22 ; Times: 6
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 5
+	Date: 2019-03-14 ; Times: 14
+	Date: 2019-03-15 ; Times: 4
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-07 ; Times: 9
+	Date: 2019-03-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 1
+	Query: "pygeretmus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Artibeus amplus" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Lenothrix canus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Pteropus woodfordi" ; Times: 2
+	Query: "Tamiops maritimus" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "Epomophorus minimus" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "Pteropus anetianus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Pteropus insularis" ; Times: 1
+	Query: "Cynopterus horsfieldii" ; Times: 1
+	Query: "Pteropus neohibernicus" ; Times: 1
+	Query: "&#34;Stylodipus&#34;" ; Times: 1
+	Query: "Lophocebus aterrimus" ; Times: 1
+	Query: "allactaga" ; Times: 1
+	Query: "dipus" ; Times: 1
+	Query: "Orientallactaga" ; Times: 1
+	Query: "promops" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 2
+	Query: "bettongia" ; Times: 1
+	Query: "Colomys" ; Times: 1
+	Query: "Cynopterus titthaecheilus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Allenopithecus nigroviridis" ; Times: 1
+	Query: "Pteropus ornatus" ; Times: 1
+	Query: "monodelphis americana" ; Times: 1
+	Query: "Salpingotus" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Rattus tiomanicus" ; Times: 1
+	Query: "scarturus" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 1
+	Query: "Eothenomys melanogaster" ; Times: 1
+	Query: "Notopteris macdonaldi" ; Times: 1
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "colomys" ; Times: 2
+	Query: "ardilla" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "Pteropus vetulus" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Hypsignathus" ; Times: 1
+	Query: "Eidolon dupreanum" ; Times: 1
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "Pteropus seychellensis" ; Times: 1
+	Query: "neotamias minimus" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Euchoreutes" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "Funambulus palmarum" ; Times: 1
+	Query: "Taphozous longimanus" ; Times: 1
+	Query: "avahi" ; Times: 1
+
+
+End of report.
