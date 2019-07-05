@@ -1,0 +1,232 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 490
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 27
+	Country: Australia ; Times: 14
+	Country: Colombia ; Times: 3
+	Country: South Africa ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 10
+	Country: Argentina ; Times: 23
+	Country: Hong Kong ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 8
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-24 ; Times: 4
+	Date: 2019-06-25 ; Times: 6
+	Date: 2019-06-26 ; Times: 22
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-07 ; Times: 10
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-02 ; Times: 3
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-29 ; Times: 4
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 3
+	Date: 2019-06-30 ; Times: 12
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-17 ; Times: 3
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 4
+	Date: 2019-06-10 ; Times: 2
+	Date: 2019-06-13 ; Times: 4
+	Date: 2019-06-12 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "mnhn 2008-1027" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "eidolon dupreanum" ; Times: 1
+	Query: "Monodelphis iheringi" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Conepatus humboldtii" ; Times: 6
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Bos frontalis" ; Times: 1
+	Query: "Zenkerella" ; Times: 1
+	Query: "Eulemur fulvus" ; Times: 1
+	Query: "epomophorus crypturus" ; Times: 1
+	Query: "vulpes pallida" ; Times: 4
+	Query: "Cryptomys mechowi" ; Times: 3
+	Query: "marmosops parvidens" ; Times: 1
+	Query: "Lontra felina" ; Times: 1
+	Query: "Bos gaurus" ; Times: 2
+	Query: "Cheirogaleus crossleyi" ; Times: 2
+	Query: "Mimon bennettii" ; Times: 1
+	Query: "Monodelphis americana" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "Calomyscus bailwardi" ; Times: 2
+	Query: "MNHN 4323" ; Times: 1
+	Query: "Pantholops" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "vntype:specimen (Hyemoschus aquaticus)" ; Times: 1
+	Query: "Anotomys leander" ; Times: 1
+	Query: "linsang" ; Times: 1
+	Query: "parahyaena" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 3
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "serpents" ; Times: 1
+	Query: "murina huttoni" ; Times: 1
+	Query: "trichotis" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 1
+	Query: "Galictis cuja" ; Times: 3
+	Query: "(ursus thibetanus)" ; Times: 1
+	Query: "Akodon subfuscus" ; Times: 1
+	Query: "Lyncodon patagonicus" ; Times: 1
+	Query: "Miniopterus fuscus" ; Times: 2
+	Query: "Chaetophractus villosus" ; Times: 6
+	Query: "CM 2653" ; Times: 1
+	Query: "Oncifelis geoffroyi" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "Necromys amoenus" ; Times: 1
+	Query: "CONEPATUS HUMBOLDTII" ; Times: 1
+	Query: "SP 5639" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 10
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "1932 AND Nicolas" ; Times: 1
+	Query: "dendrolagus ursinus" ; Times: 11
+	Query: "Histiotus" ; Times: 2
+	Query: "Mysateles prehensilis" ; Times: 1
+	Query: "Oncifelis colocolo" ; Times: 2
+	Query: "kerivoula argentata" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "hypsugo anchietae" ; Times: 1
+	Query: "Allocebus" ; Times: 1
+	Query: "Conepatus chinga" ; Times: 1
+	Query: "Lontra provocax" ; Times: 1
+	Query: "Furipterus horrens" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "hoolock" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1182 download events in this period)
+Total number of records downloaded: 1936
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 5
+	Country: Mexico ; Times: 16
+	Country: United States ; Times: 29
+	Country: Peru ; Times: 20
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-22 ; Times: 2
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-25 ; Times: 5
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 10
+	Date: 2019-06-04 ; Times: 11
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-19 ; Times: 2
+	Date: 2019-06-18 ; Times: 7
+	Date: 2019-06-30 ; Times: 6
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-17 ; Times: 3
+	Date: 2019-06-11 ; Times: 13
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bison" ; Times: 1
+	Query: "Monodelphis iheringi" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "Necromys amoenus" ; Times: 1
+	Query: "Neotomys ebriosus" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 2
+	Query: "Opossum" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Akodon subfuscus" ; Times: 1
+	Query: "marmosops parvidens" ; Times: 1
+	Query: "Micoureus demerarae year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Vampyressa thyone" ; Times: 1
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Monodelphis americana" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Lontra felina" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Glossophaga valens" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "Phyllostomus elongatus" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "rhinolophus simulator" ; Times: 1
+	Query: "Mimon bennettii" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "Histiotus montanus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Alces alces" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "epomophorus crypturus" ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "Abrothrix jelskii" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "Pantholops" ; Times: 1
+	Query: "Micoureus regina" ; Times: 1
+	Query: "Castor fiber" ; Times: 2
+	Query: "Auliscomys boliviensis" ; Times: 1
+	Query: "kerivoula argentata" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "hypsugo anchietae" ; Times: 1
+	Query: "Lophostoma silvicolum" ; Times: 2
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "Conepatus chinga" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "myotis bocagii" ; Times: 1
+	Query: "Praomys" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Oncifelis colocolo" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
