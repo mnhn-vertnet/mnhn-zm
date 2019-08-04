@@ -1,0 +1,174 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 605
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 21
+	Country: Madagascar ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Nepal ; Times: 4
+	Country: India ; Times: 2
+	Country: Israel ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Vietnam ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 4
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-16 ; Times: 3
+	Date: 2019-07-29 ; Times: 4
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 4
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Kellog" ; Times: 1
+	Query: "catalognumber:4574 institutioncode:MNHN" ; Times: 3
+	Query: "Thylacinus vntype:specimen" ; Times: 3
+	Query: "Chinchillula sahamae" ; Times: 1
+	Query: "Berylmys berdmorei" ; Times: 1
+	Query: "benin togo" ; Times: 1
+	Query: "MNHN-4881 vntype:specimen" ; Times: 1
+	Query: "MNHN 4881 vntype:specimen" ; Times: 1
+	Query: "Gillet" ; Times: 2
+	Query: "lynx pardinus" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 3
+	Query: "Miniopterus fuscus" ; Times: 1
+	Query: "stochomys" ; Times: 1
+	Query: "oryzomys albigularis" ; Times: 1
+	Query: "&#34;limnogale mergulus&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Eptesicus innoxius" ; Times: 2
+	Query: "Panthera onca" ; Times: 5
+	Query: "Pteropus aldabrensis" ; Times: 1
+	Query: "nycteris javanica" ; Times: 1
+	Query: "Thomasomys rhoadsi" ; Times: 3
+	Query: "potamogale" ; Times: 1
+	Query: "&#34;mus musculus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phyllotis osilae" ; Times: 2
+	Query: "Caracal caracal" ; Times: 2
+	Query: "micropotamogale" ; Times: 1
+	Query: "lontra felina" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 3
+	Query: "Dans country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "MNHN 4881 institutioncode:MNHN" ; Times: 1
+	Query: "locality:Ootacamund" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Felis lynx" ; Times: 1
+	Query: "Lutrogale perspicillata" ; Times: 2
+	Query: "Daubentonia" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 3
+	Query: "MNHN 5738" ; Times: 1
+	Query: "Triaenops furculus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 985 download events in this period)
+Total number of records downloaded: 1791
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 17
+	Country: Ecuador ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-04 ; Times: 7
+	Date: 2019-07-07 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 4
+	Date: 2019-07-20 ; Times: 4
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-15 ; Times: 7
+	Date: 2019-07-05 ; Times: 8
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chinchillula sahamae" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dipodomys microps" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "Auliscomys pictus" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Calomys lepidus" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "amorphochilus schnablii" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "bandicota bengalensis" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Lagidium peruanum" ; Times: 1
+	Query: "Eptesicus innoxius" ; Times: 2
+	Query: "lama guanicoe" ; Times: 1
+	Query: "Thomasomys rhoadsi" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 5
+	Query: "Lutrogale perspicillata" ; Times: 1
+	Query: "Histiotus macrotus" ; Times: 1
+	Query: "Phyllotis osilae" ; Times: 2
+	Query: "Lagenorhynchus obscurus" ; Times: 3
+	Query: "eumops glaucinus" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "calomys lepidus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "Berardius bairdii" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "histiotus macrotus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
