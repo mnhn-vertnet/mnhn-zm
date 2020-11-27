@@ -1,0 +1,118 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 233
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-06 ; Times: 3
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 4
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "SERVAL" ; Times: 3
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "Arctonyx" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Melogale" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "catalognumber:2013-257 institutioncode:MNHN" ; Times: 1
+	Query: "catalognumber:2013-273 institutioncode:MNHN" ; Times: 1
+	Query: "Anotomys" ; Times: 4
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "dicerorhinus sumatrensis" ; Times: 1
+	Query: "Heterocephalus glaber" ; Times: 3
+	Query: "Leptailurus serval" ; Times: 2
+	Query: "2013-1064 mnhn" ; Times: 1
+	Query: "Neusticomys" ; Times: 3
+	Query: "SP 3030" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "catopuma" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 596 download events in this period)
+Total number of records downloaded: 592
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: Nepal ; Times: 1
+	Country: Peru ; Times: 1
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-04 ; Times: 6
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Arctonyx" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Melogale" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 2
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Sphaeronycteris" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "manis pentadactyla" ; Times: 1
+
+
+End of report.
