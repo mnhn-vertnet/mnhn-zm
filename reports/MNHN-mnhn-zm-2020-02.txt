@@ -1,0 +1,214 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 698
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 134
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: Poland ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Morocco ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 24
+	Date: 2020-02-02 ; Times: 16
+	Date: 2020-02-03 ; Times: 33
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-20 ; Times: 5
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 12
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 6
+	Date: 2020-02-28 ; Times: 7
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-12 ; Times: 5
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 5
+	Date: 2020-02-18 ; Times: 6
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-01 ; Times: 12
+	Date: 2020-02-06 ; Times: 25
+	Date: 2020-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "TREMARCTOS ORNATUS" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 25
+	Query: "locality:Cajanuma  " ; Times: 3
+	Query: "Viverra civettina" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "Hystrix cristata" ; Times: 1
+	Query: "tremarctos &#34;ornatus&#34;" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "Myospalax myospalax" ; Times: 1
+	Query: "Arctonyx" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Tremarctos Ornatus" ; Times: 1
+	Query: "chilomys" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "Dasyprocta prymnolopha" ; Times: 2
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 31
+	Query: "&#34;Ailurus Fulgens&#34;" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "(Ailuropoda melanoleuca)" ; Times: 1
+	Query: "Thomasomys aureus" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Anotomys" ; Times: 2
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "Potamogale velox" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "xerus erythropus" ; Times: 4
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "Papagomys armandvillei" ; Times: 3
+	Query: "Otaria flavescens" ; Times: 3
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Smutsia gigantea" ; Times: 1
+	Query: "&#34;Lontra longicaudis&#34;" ; Times: 6
+	Query: "Nycticebus pygmaeus" ; Times: 1
+	Query: "león guanajuato" ; Times: 4
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Lagenorhynchus cruciger" ; Times: 4
+	Query: "Symphalangus" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 2
+	Query: "Bradypus torquatus" ; Times: 2
+	Query: "(tremarctos ornatus)" ; Times: 3
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "cystophora" ; Times: 2
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Smutsia temminckii" ; Times: 2
+	Query: "Leptailurus serval	 100" ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 10
+	Query: "ovis nivicola" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 4
+	Query: "colocolo" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 6
+	Query: "catalognumber:832" ; Times: 1
+	Query: "locality:Cajanuma " ; Times: 1
+	Query: "cremnomys" ; Times: 1
+	Query: "sotalia" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 10
+	Query: "Dendrohyrax" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 104 (out of 1023 download events in this period)
+Total number of records downloaded: 1241
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Iraq ; Times: 2
+	Country: United States ; Times: 68
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 6
+	Date: 2020-02-03 ; Times: 16
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 13
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 3
+	Date: 2020-02-04 ; Times: 8
+	Date: 2020-02-05 ; Times: 10
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-01 ; Times: 8
+	Date: 2020-02-06 ; Times: 13
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "TREMARCTOS ORNATUS" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "kurdistan" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "mormoops blainvillii" ; Times: 1
+	Query: "mammals nayarit" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 17
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 3
+	Query: "Anotomys" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "Antechinus swainsonii" ; Times: 1
+	Query: "Grammomys dolichurus" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Otaria flavescens" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 16
+	Query: "sciurus niger" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Symphalangus" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "(tremarctos ornatus)" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 5
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 3
+	Query: "Iraq" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 6
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
