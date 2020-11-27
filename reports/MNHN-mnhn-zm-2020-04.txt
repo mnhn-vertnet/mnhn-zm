@@ -1,0 +1,355 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 996
+Number of records retrieved in searches: 33012
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 54
+	Country: Iran ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 13
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 897
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Switzerland ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-02 ; Times: 4
+	Date: 2020-04-07 ; Times: 258
+	Date: 2020-04-23 ; Times: 3
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 5
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 21
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-21 ; Times: 544
+	Date: 2020-04-26 ; Times: 4
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 6
+	Date: 2020-04-03 ; Times: 80
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-28 ; Times: 17
+	Date: 2020-04-29 ; Times: 11
+	Date: 2020-04-08 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Cercopithecus cephus" ; Times: 4
+	Query: "Vulpes zerda" ; Times: 5
+	Query: "Ovis aries" ; Times: 10
+	Query: "Cephalophus leucogaster" ; Times: 5
+	Query: "Tursiops aduncus" ; Times: 3
+	Query: "Mus minutoides" ; Times: 6
+	Query: "Apodemus mystacinus" ; Times: 4
+	Query: "Callithrix penicillata" ; Times: 2
+	Query: "Mirounga NOT Australia NOT California NOT Oregon NOT Zealand" ; Times: 2
+	Query: "Mazama gouazoubira" ; Times: 5
+	Query: "Crocidura attenuata" ; Times: 4
+	Query: "Cervus axis" ; Times: 3
+	Query: "Nandinia binotata" ; Times: 5
+	Query: "Muntiacus muntjak" ; Times: 3
+	Query: "Puma yagouaroundi" ; Times: 4
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 1
+	Query: "Tragelaphus spekii" ; Times: 4
+	Query: "Chlorocebus aethiops" ; Times: 4
+	Query: "Funisciurus pyrropus" ; Times: 4
+	Query: "Rousettus aegyptiacus" ; Times: 6
+	Query: "Hylomyscus aeta" ; Times: 4
+	Query: "Rousettus leschenaultii" ; Times: 4
+	Query: "Vulpes corsac" ; Times: 5
+	Query: "Oecomys auyantepui" ; Times: 3
+	Query: "Inia geoffrensis" ; Times: 9
+	Query: "Mandrillus sphinx" ; Times: 4
+	Query: "Epomophorus wahlbergi" ; Times: 4
+	Query: "Mirounga NOT Australia NOT California NOT Oregon NOT Zealand NOT Alaska NOT Washington NOT Africa" ; Times: 1
+	Query: "Chaerephon pumila" ; Times: 4
+	Query: "Sciurus igniventris" ; Times: 3
+	Query: "Nyctereutes procyonoides" ; Times: 5
+	Query: "Philantomba maxwellii" ; Times: 5
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Potamochoerus larvatus" ; Times: 4
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "Malacomys longipes" ; Times: 4
+	Query: "Mazama americana" ; Times: 3
+	Query: "melursus ursinus" ; Times: 3
+	Query: "Lutrogale perspicillata" ; Times: 7
+	Query: "Sciurus aestuans" ; Times: 3
+	Query: "Sphiggurus insidiosus" ; Times: 3
+	Query: "Alouatta caraya" ; Times: 3
+	Query: "C. gambianus" ; Times: 5
+	Query: "Cervus nippon" ; Times: 4
+	Query: "Meles meles" ; Times: 4
+	Query: "Otocyon megalotis" ; Times: 5
+	Query: "Cercopithecus erythrotis" ; Times: 4
+	Query: "Cercopithecus pogonias" ; Times: 4
+	Query: "Neomys fodiens" ; Times: 2
+	Query: "Mandrillus leucophaeus" ; Times: 4
+	Query: "Molossus barnesi" ; Times: 4
+	Query: "Panthera leo institutioncode:MNHN" ; Times: 1
+	Query: "Capricornis crispus" ; Times: 4
+	Query: "diclidurus albus" ; Times: 1
+	Query: "Hylomyscus alleni" ; Times: 3
+	Query: "Felis silvestris" ; Times: 5
+	Query: "Cabassous" ; Times: 1
+	Query: "Callithrix geoffroyi" ; Times: 7
+	Query: "Axis porcinus" ; Times: 3
+	Query: "Genetta pardina" ; Times: 4
+	Query: "Otomys angoniensis" ; Times: 4
+	Query: "Hylomyscus pamfi" ; Times: 4
+	Query: "Phodopus sungorus" ; Times: 4
+	Query: "Ametrida centurio" ; Times: 4
+	Query: "Cercocebus torquatus" ; Times: 4
+	Query: "moschus moschiferus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 6
+	Query: "helarctos malayanus" ; Times: 1
+	Query: "Cephalophus ogilbyi" ; Times: 4
+	Query: "Canis lupus institutioncode:MNHN" ; Times: 1
+	Query: "Babyrousa babyrussa" ; Times: 4
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "Erythrocebus patas" ; Times: 4
+	Query: "Cercopithecus hamlyni" ; Times: 4
+	Query: "Lutra sumatrana" ; Times: 7
+	Query: "Trachypithecus phayrei" ; Times: 1
+	Query: "Cercopithecus diana" ; Times: 4
+	Query: "Lontra longicaudis" ; Times: 7
+	Query: "Mus pahari" ; Times: 6
+	Query: "Sciurus spadiceus" ; Times: 3
+	Query: "Ourebia ourebi" ; Times: 4
+	Query: "Naemorhedus griseus" ; Times: 4
+	Query: "Cercopithecus nictitans" ; Times: 4
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "Allenopithecus nigroviridis" ; Times: 4
+	Query: "Chlorocebus tantalus" ; Times: 4
+	Query: "M. reevesi" ; Times: 3
+	Query: "Dephomys defua" ; Times: 6
+	Query: "Chlorocebus cynosuros" ; Times: 4
+	Query: "Chiroderma trinitatum" ; Times: 4
+	Query: "Cephalophus callipygus" ; Times: 4
+	Query: "moschus" ; Times: 3
+	Query: "Catopuma temminckii" ; Times: 3
+	Query: "Micoureus demerarae" ; Times: 2
+	Query: "Papio hamadryas" ; Times: 4
+	Query: "Megaloglossus woermanni" ; Times: 4
+	Query: "Crocidura hildegardeae" ; Times: 4
+	Query: "Nanonycteris veldkampii" ; Times: 4
+	Query: "Galagoides demidoff" ; Times: 5
+	Query: "Philantomba monticola" ; Times: 5
+	Query: "Ursus arctos institutioncode:MNHN" ; Times: 1
+	Query: "Cercopithecus denti" ; Times: 4
+	Query: "Felis catus" ; Times: 4
+	Query: "Hylomyscus baeri" ; Times: 4
+	Query: "Cercopithecus erythrogaster" ; Times: 4
+	Query: "Cercopithecus ascanius" ; Times: 4
+	Query: "Crocidura russula" ; Times: 4
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "aonyx cinerea" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Oecomys rex" ; Times: 3
+	Query: "Otomops martiensseni" ; Times: 4
+	Query: "Felis chaus" ; Times: 4
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "Saimiri sciureus" ; Times: 2
+	Query: "Artibeus concolor" ; Times: 4
+	Query: "Cercopithecus campbelli" ; Times: 9
+	Query: "Hylomyscus walterverheyeni" ; Times: 4
+	Query: "Mirounga NOT Australia NOT California" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 4
+	Query: "Lynx pardinus" ; Times: 4
+	Query: "Hippotragus niger" ; Times: 4
+	Query: "Genetta servalina" ; Times: 4
+	Query: "Cercopithecus wolfi" ; Times: 4
+	Query: "Hypsignathus monstrosus" ; Times: 37
+	Query: "Apodemus alpicola" ; Times: 6
+	Query: "lutra lutra" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 4
+	Query: "Cephalophus dorsalis" ; Times: 4
+	Query: "Muntiacus reevesi" ; Times: 3
+	Query: "Cephalophus niger" ; Times: 9
+	Query: "Felis margarita" ; Times: 5
+	Query: "Rousettus madagascariensis" ; Times: 4
+	Query: "Sus salvanius" ; Times: 4
+	Query: "hylobates muelleri" ; Times: 3
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "Equus asinus" ; Times: 2
+	Query: "Miniopterus inflatus" ; Times: 4
+	Query: "Tragelaphus imberbis" ; Times: 4
+	Query: "Colomys goslingi" ; Times: 1
+	Query: "isothrix bistriata" ; Times: 2
+	Query: "Pan paniscus" ; Times: 8
+	Query: "M. setulosus" ; Times: 6
+	Query: "Otomys typus" ; Times: 4
+	Query: "Mirounga NOT Australia NOT California NOT Oregon NOT Zealand NOT Washington NOT Africa" ; Times: 1
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "Brachyteles arachnoides" ; Times: 3
+	Query: "Cercopithecus roloway" ; Times: 4
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Saguinus midas" ; Times: 2
+	Query: "Alouatta seniculus" ; Times: 6
+	Query: "Aotus trivirgatus" ; Times: 6
+	Query: "Cercopithecus mona" ; Times: 4
+	Query: "Mus musculoides" ; Times: 5
+	Query: "Pygoderma bilabiatum" ; Times: 4
+	Query: "Epomops franqueti" ; Times: 3
+	Query: "Muntiacus atherodes" ; Times: 3
+	Query: "Chlorocebus pygerythrus" ; Times: 4
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "Taurotragus derbianus" ; Times: 4
+	Query: "Cercopithecus mitis" ; Times: 4
+	Query: "Naemorhedus caudatus" ; Times: 4
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "oecomys tapajinus" ; Times: 2
+	Query: "Otomys occidentalis" ; Times: 4
+	Query: "Protoxerus stangeri" ; Times: 9
+	Query: "Aotus azarae" ; Times: 6
+	Query: "Cephalophus nigrifrons" ; Times: 4
+	Query: "Cercocebus atys" ; Times: 4
+	Query: "Cephalophus silvicultor" ; Times: 4
+	Query: "Potamochoerus porcus" ; Times: 4
+	Query: "Papio ursinus" ; Times: 4
+	Query: "Apodemus uralensis" ; Times: 6
+	Query: "Epomophorus minor" ; Times: 4
+	Query: "Cephalophus maxwelli" ; Times: 5
+	Query: "Atherurus africanus" ; Times: 5
+	Query: "Myonycteris torquata" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Arvicola amphibius" ; Times: 3
+	Query: "Leptailurus serval" ; Times: 4
+	Query: "Microsciurus flaviventer" ; Times: 3
+	Query: "Miopithecus ogouensis" ; Times: 4
+	Query: "Chironax melanocephalus" ; Times: 4
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Oecomys bicolor" ; Times: 6
+	Query: "Mormopterus planiceps" ; Times: 10
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "Cercopithecus petaurista" ; Times: 9
+	Query: "Felis catus year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "Micropteropus pusillus" ; Times: 4
+	Query: "Sciurus pyrrhinus" ; Times: 3
+	Query: "M. pahari" ; Times: 6
+	Query: "lasiurus ega" ; Times: 2
+	Query: "Epomophorus gambianus" ; Times: 4
+	Query: "Lophocebus albigena" ; Times: 4
+	Query: "Oecomys rutilus" ; Times: 3
+	Query: "Cercocebus chrysogaster" ; Times: 4
+	Query: "Arctonyx collaris" ; Times: 7
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "Hylomyscus simus" ; Times: 4
+	Query: "Panthera onca" ; Times: 4
+	Query: "Homo sapiens" ; Times: 12
+	Query: "Galictis cuja" ; Times: 1
+	Query: "Naemorhedus goral" ; Times: 4
+	Query: "Manis tricuspis" ; Times: 4
+	Query: "Hylomyscus denniae" ; Times: 4
+	Query: "Aotus lemurinus" ; Times: 6
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "Panthera tigris" ; Times: 6
+	Query: "Tapirus pinchaque" ; Times: 11
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Otomys tropicalis" ; Times: 4
+	Query: "Cuon alpinus" ; Times: 5
+	Query: "Mesomys hispidus" ; Times: 3
+	Query: "Phacochoerus africanus" ; Times: 4
+	Query: "Vampyressa pusilla" ; Times: 4
+	Query: "Oryx dammah" ; Times: 5
+	Query: "gazella subgutturosa" ; Times: 1
+	Query: "Aonyx cinerea" ; Times: 7
+	Query: "Coendou bicolor" ; Times: 3
+	Query: "Elaphurus davidianus" ; Times: 3
+	Query: "Papio anubis" ; Times: 4
+	Query: "cheiromeles" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 7
+	Query: "Cephalophus jentinki" ; Times: 4
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "lutrogale perspicillata" ; Times: 6
+	Query: "cabassous unicinctus" ; Times: 3
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Chaerephon plicatus" ; Times: 4
+	Query: "Okapia johnstoni" ; Times: 2
+	Query: "Mirounga AND 18 NOT Australia NOT California NOT Oregon NOT Zealand" ; Times: 1
+	Query: "Lutra lutra" ; Times: 9
+	Query: "Hylomyscus parvus" ; Times: 4
+	Query: "Cebuella pygmaea" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1171 download events in this period)
+Total number of records downloaded: 1161
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Peru ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Argentina ; Times: 21
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-26 ; Times: 6
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "diclidurus" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Canis lupus institutioncode:MNHN" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 1
+	Query: "gazella subgutturosa" ; Times: 1
+	Query: "Thomasomys" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 12
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Ursus arctos institutioncode:MNHN" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "sousa chinensis" ; Times: 1
+	Query: "isothrix bistriata" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "vampyrodes caraccioli major" ; Times: 1
+
+
+End of report.
