@@ -1,0 +1,151 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 597
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 72
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Nepal ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 47
+	Date: 2020-05-26 ; Times: 7
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 16
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-09 ; Times: 3
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-15 ; Times: 7
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Notamacropus parma" ; Times: 1
+	Query: "MNHN CG" ; Times: 1
+	Query: "Gorilla beringei beringei" ; Times: 1
+	Query: "&#34;monachus monachus&#34;" ; Times: 1
+	Query: "Martes flavigula" ; Times: 1
+	Query: "MNHN 599" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "anoura caudifera vntype:specimen" ; Times: 1
+	Query: "1316 borneo" ; Times: 2
+	Query: "Mesomys" ; Times: 2
+	Query: "(Cuon alpinus)" ; Times: 1
+	Query: "melursus ursinus" ; Times: 5
+	Query: "Micronycteris schmidtorum" ; Times: 2
+	Query: "Lepilemur" ; Times: 4
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 2
+	Query: "Choeroniscus minor" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 2
+	Query: "clot bey" ; Times: 2
+	Query: "cryptoprocta ferox" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Ursus arctos continent:Europe" ; Times: 2
+	Query: "koopmania" ; Times: 1
+	Query: "centronycteris maximiliani" ; Times: 2
+	Query: "diclidurus albus" ; Times: 66
+	Query: "Neotoma cinerea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1106 download events in this period)
+Total number of records downloaded: 984
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 14
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Nepal ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "maxomys rajah" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Mesomys" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "clot bey" ; Times: 1
+	Query: "Martes flavigula" ; Times: 1
+	Query: "Martes foina" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+
+
+End of report.
