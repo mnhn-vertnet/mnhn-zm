@@ -1,0 +1,175 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 186
+Number of records retrieved in searches: 1607
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 117
+	Country: Ireland ; Times: 3
+	Country: Colombia ; Times: 10
+	Country: Mexico ; Times: 36
+	Country: India ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Japan ; Times: 6
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-16 ; Times: 8
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 34
+	Date: 2020-09-29 ; Times: 52
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-02 ; Times: 9
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-22 ; Times: 38
+	Date: 2020-09-04 ; Times: 8
+	Date: 2020-09-08 ; Times: 6
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "anoura caudifera vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "meriones israel" ; Times: 1
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 1
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "scientificname:Pongo abelii" ; Times: 13
+	Query: "MNHN CG-1998" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "neotomys" ; Times: 2
+	Query: "scientificname:Lagothrix lagotricha" ; Times: 1
+	Query: "MNHN 364" ; Times: 1
+	Query: "scientificname:Cryptotis mexicana mexicana" ; Times: 11
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 2
+	Query: "Cricetomys" ; Times: 8
+	Query: "ellobius" ; Times: 3
+	Query: "Rhogeessa alleni" ; Times: 1
+	Query: "Cabassous" ; Times: 1
+	Query: "Otaria flavescens" ; Times: 2
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:MNHN" ; Times: 1
+	Query: "ateles geoffroyi vellerosus" ; Times: 1
+	Query: "Globicephala melaena" ; Times: 6
+	Query: "Leopardus tigrinus" ; Times: 3
+	Query: "C. gambianus" ; Times: 1
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "scientificname:Reithrodontomys mexicanus" ; Times: 1
+	Query: "Dasyprocta mexicana" ; Times: 2
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "galictis vittata" ; Times: 2
+	Query: "dinomys" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "scientificname:Pan Paniscus" ; Times: 1
+	Query: "pectinator" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "acomys subspinosus" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "scientificname:Ailuropoda melanoleuca" ; Times: 32
+	Query: "Choeroniscus minor vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "MNHN CG 1998" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "allocebus" ; Times: 1
+	Query: "scientificname:Pongo Abelii" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 2
+	Query: "scientificname:Peromyscus difficilis" ; Times: 1
+	Query: "Cricetomys emini" ; Times: 1
+	Query: "platanista" ; Times: 2
+	Query: "lutrogale perspicillata" ; Times: 1
+	Query: "scientificname:Pan paniscus" ; Times: 14
+	Query: "bos sauveli" ; Times: 1
+	Query: "scientificname:Cryptotis mexicana" ; Times: 11
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "zaglossus" ; Times: 1
+	Query: "kerodon rupestris" ; Times: 1
+	Query: "scientificname:Loxodonta cyclotis" ; Times: 4
+	Query: "Scotomanes ornatus" ; Times: 2
+	Query: "anoura caudifera" ; Times: 1
+	Query: "scientificname:Tremarctos ornatus" ; Times: 18
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 976 download events in this period)
+Total number of records downloaded: 592
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 21
+	Country: Netherlands ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-27 ; Times: 6
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pusa hispida" ; Times: 1
+	Query: "Gazella subgutturosa" ; Times: 6
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "lophostoma silvicolum vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "Phyllostomus elongatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Ourebia ourebi" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 2
+	Query: "myotis californicus" ; Times: 3
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "artibeus cinereus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+
+
+End of report.
