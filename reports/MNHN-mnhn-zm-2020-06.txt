@@ -1,0 +1,105 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 596
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 2
+	Country: Poland ; Times: 1
+	Country: Nepal ; Times: 3
+	Country: India ; Times: 14
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 33
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-08 ; Times: 13
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-11 ; Times: 12
+	Date: 2020-06-10 ; Times: 15
+	Date: 2020-06-13 ; Times: 1
+	Date: 2020-06-01 ; Times: 37
+	Date: 2020-06-12 ; Times: 6
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "hypsignathus" ; Times: 1
+	Query: "papagomys" ; Times: 1
+	Query: "Dactylomys" ; Times: 2
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "martes flavigula" ; Times: 1
+	Query: "arctonyx" ; Times: 3
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "bos gaurus" ; Times: 2
+	Query: "Homo sapiens" ; Times: 18
+	Query: "Pongo abelii" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Catopuma temminckii" ; Times: 4
+	Query: "ailurus fulgens" ; Times: 12
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "CENTRONYCTERIS MAXIMILIANI" ; Times: 33
+	Query: "niviventer cremoriventer" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "lenothrix" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "Hexaprotodon liberiensis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nycticebus pygmaeus" ; Times: 1
+	Query: "Otocolobus manul" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 474 download events in this period)
+Total number of records downloaded: 192
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Poland ; Times: 2
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Dactylomys" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+
+
+End of report.
