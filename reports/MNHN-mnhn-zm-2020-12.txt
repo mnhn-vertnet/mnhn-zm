@@ -1,0 +1,210 @@
+Report for Institution Code MNHN, Resource mnhn-zm
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1751
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Turkey ; Times: 3
+	Country: Saudi Arabia ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 76
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 4
+	Country: Kenya ; Times: 2
+	Country: United States ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 17
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-03 ; Times: 9
+	Date: 2020-12-04 ; Times: 50
+	Date: 2020-12-28 ; Times: 5
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-01 ; Times: 6
+	Date: 2020-12-09 ; Times: 11
+	Date: 2020-12-10 ; Times: 4
+	Date: 2020-12-11 ; Times: 18
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-13 ; Times: 3
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-02 ; Times: 23
+	Date: 2020-12-16 ; Times: 6
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "MNHN 1997-388" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "scientificname:Martes americana stateprovince:new york" ; Times: 2
+	Query: "Crocidura attenuata" ; Times: 1
+	Query: "scientificname:Funisciurus anerythrus" ; Times: 5
+	Query: "Bos javanicus" ; Times: 2
+	Query: "Oecomys auyantepui" ; Times: 1
+	Query: "Zelotomys" ; Times: 1
+	Query: "Crocidura russula" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "Hadrosciurus pyrrhinus" ; Times: 1
+	Query: "Microtus multiplex" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Nyctophilus gouldi" ; Times: 1
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "Mus macedonicus" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Axis porcinus" ; Times: 1
+	Query: "Apodemus alpicola" ; Times: 1
+	Query: "notiomys" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "MNHN-2012-673" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 1
+	Query: "MNHN 1997-381" ; Times: 1
+	Query: "pseudois" ; Times: 1
+	Query: "Felis libyca" ; Times: 1
+	Query: "Suncus megalura" ; Times: 1
+	Query: "Suncus etruscus" ; Times: 1
+	Query: "Bradypus torquatus" ; Times: 1
+	Query: "Pipistrellus abramus" ; Times: 1
+	Query: "Microtus lusitanicus" ; Times: 1
+	Query: "Felis margarita" ; Times: 28
+	Query: "Crocidura hildegardeae" ; Times: 1
+	Query: "scientificname:Myotis leibii stateprovince:new york" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "Myotis martiniquensis" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Dendroprionomys" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 2
+	Query: "Felis chaus" ; Times: 3
+	Query: "geoxus" ; Times: 1
+	Query: "Lynx pardinus" ; Times: 2
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "scientificname:Lasiurus borealis stateprovince:new york" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Chalinolobus neocaledonicus" ; Times: 1
+	Query: "Prionomys" ; Times: 1
+	Query: "chilomys" ; Times: 1
+	Query: "Microtus savii" ; Times: 1
+	Query: "Glischropus tylopus" ; Times: 1
+	Query: "neotomys ebriosus" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Dryomys nitedula" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "Zelotomys ]hildegardeae" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "Pan paniscus" ; Times: 5
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Myotis ruber" ; Times: 1
+	Query: "MNHN-1841-44" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Neusticomys" ; Times: 1
+	Query: "Bos sauveli" ; Times: 1
+	Query: "Pipistrellus ceylonicus" ; Times: 1
+	Query: "Microtus gerbei" ; Times: 1
+	Query: "Uranomys" ; Times: 1
+	Query: "Phacochoerus" ; Times: 2
+	Query: "neusticomys" ; Times: 1
+	Query: "Suncus madagascariensis" ; Times: 1
+	Query: "Apodemus uralensis" ; Times: 1
+	Query: "scientificname:Lynx rufus stateprovince:new york" ; Times: 2
+	Query: "Ovis ammon" ; Times: 1
+	Query: "trichechus inunguis" ; Times: 1
+	Query: "scientificname:Funisciurus congicus" ; Times: 4
+	Query: "Bos frontalis" ; Times: 2
+	Query: "Sciurus ignitus" ; Times: 1
+	Query: "Dicrostonyx torquatus" ; Times: 1
+	Query: "Callithrix aurita" ; Times: 4
+	Query: "Lasiurus blossevillii Uruguay" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 1
+	Query: "Neoromicia somalicus" ; Times: 1
+	Query: "Myotis daubentoni" ; Times: 1
+	Query: "Bison bonasus" ; Times: 2
+	Query: "Pipistrellus coromandra" ; Times: 1
+	Query: "Ovis nivicola" ; Times: 1
+	Query: "Microtus duodecimcostatus" ; Times: 1
+	Query: "Felis bieti" ; Times: 1
+	Query: "MO-1970-468" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "musculus 1881" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Sciurus anomalus" ; Times: 3
+	Query: "Oecomys rutilus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 705 download events in this period)
+Total number of records downloaded: 437
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myoictis" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Ucayali" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 2
+	Query: "Pucallpa" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "Callithrix aurita" ; Times: 1
+
+
+End of report.
